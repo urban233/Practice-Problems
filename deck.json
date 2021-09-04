@@ -61,6 +61,16 @@
                     "guid": "oRPsP4tD0J",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Basen paaren miteinander und über welchen molekularen Mechanismus?",
+                        "<ul>\n<li>A-T; A-U (2 WBB)</li>\n<li>G-C (3 WBB)</li>\n<li>über WBB</li></ul>"
+                    ],
+                    "guid": "A,909#IqHS",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": []
                 }
             ]
         }
