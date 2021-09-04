@@ -37,7 +37,17 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "Untitled-94020deef8bed734a6a9a97df2ed1edb88df1dfb.png"
+                "Untitled-00e8e5e60ffd0a727358507dcaee636462b8b2cf.png",
+                "Untitled-0f9fd1bb83254f52a52e4ae734f859b89c2db40a.png",
+                "Untitled-107cba877ef28bc86ed2db78568099e7e81d352a.png",
+                "Untitled-14049e57f3fb442228d870459d120c1efd81d199.png",
+                "Untitled-3700f733a2a0111a8881f9f11b25e1f6a99f649c.png",
+                "Untitled-3886137f819be49c9bd836e3a84dce6f91824803.png",
+                "Untitled-6656c93e5fd7a27ad781faf35494359247312a9b.png",
+                "Untitled-94020deef8bed734a6a9a97df2ed1edb88df1dfb.png",
+                "Untitled-bed17cc6ef00ad478a4064c13eaf3243441374cf.png",
+                "Untitled-caf10487c195dfecf0cf0f0f266159a568cc789e.png",
+                "Untitled-cf6742445c1eb90123d0389aa63a3427014a43d7.png"
             ],
             "mid": 1604391419181,
             "name": "Genetik",
@@ -50,7 +60,9 @@
                     ],
                     "guid": "r;_C7kqe.R",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": []
+                    "tags": [
+                        "_PP::Genetik::Allgemeines"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -60,7 +72,9 @@
                     ],
                     "guid": "oRPsP4tD0J",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": []
+                    "tags": [
+                        "_PP::Genetik::Allgemeines"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -70,7 +84,681 @@
                     ],
                     "guid": "A,909#IqHS",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": []
+                    "tags": [
+                        "_PP::Genetik::Allgemeines"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie umfangreich (in Bp) ist das Genom von Viroiden, Viren, Prokaryonten, Eukaryonten?",
+                        "<img src=\"Untitled-3886137f819be49c9bd836e3a84dce6f91824803.png\">"
+                    ],
+                    "guid": "M65$syT?s+",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Allgemeines"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie verändert die Basenpaarung das UV-Absorptionsspektrum und warum?",
+                        "Die Basenpaarung setzt das UV-Absorptionsspektrum herunter.&nbsp;<div>Das heißt die Extinktion der\ndoppelstrang DNA ist bei 260nm wesentlich geringer als bei einzelstrang DNA Doppelstrang höhere Absorptions als Einzelstrang.</div>"
+                    ],
+                    "guid": "p4gB&v~V&&",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Allgemeines"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ein Strang einer DNA habe 30% A und 25%G – was können Sie über die %-Anteile A,G,C,T des komplementären Stranges aussagen?",
+                        "<ul>\n<li>min. 30 % T</li>\n<li>min. 25 % C</li></ul>"
+                    ],
+                    "guid": "d<{g68,ck",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Allgemeines"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Definieren Sie die Begriffe B-DNA und Z-DNA&nbsp;sowie&nbsp;minor groove und major groove.",
+                        "B-DNA : rechtsdrehend, natürlich vorkommend 10 Basen pro Windung, hat minor und major groove&nbsp;<div>Z-DNA: linksdrehend 12 Basen pro Windung.&nbsp;</div><div><br></div><div>Minor Groove: kleine Grube&nbsp;</div><div>Major Groove: große Grube&nbsp;</div><div><br></div><div>à Grube= von einer Windung zur anderen</div>"
+                    ],
+                    "guid": "swffca{39S",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Allgemeines"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Bestandteile der Nukleinsäuren sind symmetrisch, welche sind chiral?",
+                        "<div>Symmetrisch:</div>\n<ul>\n<li>DNA-Rückgrat mit 2 Substituenten Phosphat und Zucker</li>\n<li>Basen der dRNA sind symmetrisch.</li>\n</ul>\n<div>Chiral:</div>\n<ul>\n<li>RNA-Ribose</li></ul>"
+                    ],
+                    "guid": "Pxq=m`)[7p",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Allgemeines"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist mit dem „Dogma der Molekularbiologie“ gemeint? In welcher Beziehung wurde es revidiert?",
+                        "DNA Synthese = Informationsfluss, RNA → DNA → Aminosäurekette , wurde überholt RNA\n→ DNA (reversible Transkriptase) wird meistens von Viren genutzt"
+                    ],
+                    "guid": "E>[_;9$?Wg",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist bei RNA die Primär-, Sekundär-, Tertiärstruktur?",
+                        "Primärstruktur bei RNA : Basenfolge bzw. Codon&nbsp;<div><br></div><div>Sekundärstruktur : z.B wenn die RNA zu schleifen verknüpft wird beim Spleißen, es sind WW\nzwischen Basenpaaren, strangintern&nbsp;</div><div><br></div><div>Tertiär: Räumlich aufgefaltet z.B tRNA hat aufgefaltet eine ganz andere Form als die\nKleeblatt Struktur in der Sekundärstruktur</div>"
+                    ],
+                    "guid": "qGDF[(OTJ`",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie nennt man die Region der DNA, an der die DNA-abhängige RNA-Polymerase ansetzt? Welche Boxen gibt es bei Pro- und bei Eukaryonten?",
+                        "<img src=\"Untitled-00e8e5e60ffd0a727358507dcaee636462b8b2cf.png\">"
+                    ],
+                    "guid": "w}zzSG{:SK",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Aktivitäten hat eine DNA-abhängige DNA-Polymerase ?",
+                        "<div>- die DNA-abhängige DNA-Polymerase Aktivität (5' nach 3')<br></div>- Proofreading→ 1. schritt prüfen ob alles passt, 2. schritt, wenn es nicht passt rauschmeißen\nund neues einsetzen&nbsp;<div>- Exonuclease (Strangverdrängung)</div>"
+                    ],
+                    "guid": "sQC%p3OXqt",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Proofreading-Aktivität?",
+                        "Die Proofreading-Aktivität ist eine Kontrollaktivität, welche falsch eingebaute Nukleotide erkennt und durch Hydrolyse der Phosphodiester-Bindung von der DNA entfernt."
+                    ],
+                    "guid": "gsp.b/hW;r",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "DNA- vs. RNA-Polymerasen: Welche haben Proofread-Aktivität, welche nicht?",
+                        "DNA hat welche, RNA nicht"
+                    ],
+                    "guid": "Lrj8kuWm&,",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie nennt man die Start- und Stop-Signale der Transkription bzw. der Translation?",
+                        "<div>Transkription: Promotor, Terminator</div>\n<div>Translation: Start-Codon (AUG) und Stopp-Codon</div>"
+                    ],
+                    "guid": "fgg7bB?#B/",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Introne, und bei welchen Organismen kommen sie vor?&nbsp;<div><br></div><div>Was ist „splicing“?&nbsp;</div><div><br></div><div>Was ist die Lariat-Struktur?</div>",
+                        "- nur Eukaryonten haben Introns<div>- in Introns wird nichts codiert</div><div>- durch spleißen werden die\nIntrons rausgeschnitten&nbsp;</div><div>- Lariat = Lasso- Struktur</div>"
+                    ],
+                    "guid": "LWO>$zD**/",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine mono-, was eine polycistronische mRNA und bei welchen Organismen kommen sie jeweils vor?",
+                        "<img src=\"Untitled-14049e57f3fb442228d870459d120c1efd81d199.png\">"
+                    ],
+                    "guid": "g?Nf7?jH(8",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie unterscheiden sich pro- und eukaryote mRNAs? Warum?",
+                        "<div>Prokaryotische mRNA hat einen Triphosphat-Rest am 5'-Ende, die eukaryotische mRNA hat am 5'-Ende eine Cap und am 3'-Ende einen Poly-A-Tail.&nbsp;</div><div>Sowohl die Cap, als auch der Triphosphatrest schützen die mRNA vor dem Abbau im Cytoplasma.</div>\n<div><br></div><div>Der Poly-A-Tail dient dazu, das die mRNA aus dem Zellkern gelangen kann. Da die Prokaryoten keinen Zellkern haben, besitzen sie auch keinen Poly-A-Tail.</div>"
+                    ],
+                    "guid": "ma{-/Dt}*B",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Kodon, welches sind die Start- und Stop-Kodone?&nbsp;<div><br></div><div>Was ist ein Leseraster, und wie wird es durch die Ribosomen gefunden?</div>",
+                        "<img src=\"Untitled-caf10487c195dfecf0cf0f0f266159a568cc789e.png\">"
+                    ],
+                    "guid": "F>7>]D_<q.",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Notieren Sie alle Kodone aller beteiligten Nukleinsäuren, die an der Kodierung der Proteinsequenz Ala-Gly-Trp beteiligt sind.&nbsp;<div><br></div><div>Aus welchem Grund kann man diese Aufgabe nicht gänzlich lösen?</div>",
+                        "Diese Aufgabe lässt sich nicht gänzlich lösen, weil es mehere Kodone für eine Aminosäure gibt."
+                    ],
+                    "guid": "r?{6(!{p.:",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine tRNA?",
+                        "<div>tRNA = Transfer DNA sammelt die Aminosäuren ein und setzt sich in das Ribosom auf die\nmRNA und hilft somit eine Aminosäurekette herzustellen</div>"
+                    ],
+                    "guid": "q-wFF4o.FF",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was besagt die „wobble“-Theorie?",
+                        "<img src=\"Untitled-3700f733a2a0111a8881f9f11b25e1f6a99f649c.png\">"
+                    ],
+                    "guid": "e`cbF|DDEc",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Polysom?",
+                        "<img src=\"Untitled-6656c93e5fd7a27ad781faf35494359247312a9b.png\">"
+                    ],
+                    "guid": "t&eKUoLhXx",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Proteinbiosynthese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viel DNA bzw. Protein beinhaltet eine lebenden Zelle grob?&nbsp;<div><br></div><div>Wie viel ein Bakteriophage?</div>",
+                        "<div>Zellen:</div>\n<ul>\n<li>1% DNA</li>\n<li>10-30% Protein → variabler als DNA</li>\n</ul>\n<div>Bakteriophagen:</div>\n<ul>\n<li>30-50% DNA</li></ul>"
+                    ],
+                    "guid": "b%nzk[9eW0",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAPräp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Plasmide?",
+                        "<ul>\n<li>kleine ringförmige DNA</li>\n<li>Autonome Vermehrung = unabhängig von Bakterienchromosom</li>\n<li>wenige Kilobasen groß</li><li>Extrachromosomal, dass bedeutet sie tragen ergänzende Eigenschaften zum Bakterienchromosom<br></li></ul>"
+                    ],
+                    "guid": "ingRm05C4h",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAPräp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche sind die grundsätzlichen Schritte der Nukleinsäurepräparation?",
+                        "<img src=\"Untitled-107cba877ef28bc86ed2db78568099e7e81d352a.png\">"
+                    ],
+                    "guid": "kaABGbk0sW",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAPräp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche 3 grundsätzlichen Wege gibt es, um Zellen aufzuschließen?",
+                        "<ol>\n<li>Chemische Lysis (Chemikalien, Detergenzien)</li>\n<li>Enzymatische Lysis (Enzyme, Lysozym)</li>\n<li>physikalischer Aufschluss (mechanische Scherkräfte)</li></ol>"
+                    ],
+                    "guid": "xJ[5A2>Y4%",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAPräp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie entfernt man Proteine?",
+                        "Proteine werden zunächst durch ein Gemisch von NaOH und SDS denaturiert. Anschließend können die Proteine durch eine Phenol-Chloroform Extraktion entfernt werden, dabei bildet sich eine extra Phase in der sich die Proteine aufhalten.<div><br></div><div>Neben der Phenol-Chlorofom Extraktion gibt es auch die Möglichkeit Chaotrope Salze zuverwenden. Damit werden die Wasserstruktur welche die Hauptriebkraft der Proteinfaltung sind, zerstört.</div>"
+                    ],
+                    "guid": "e1.rSPN1T0",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAPräp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kontrolliert man die Qualität einer Nukleinsäurepräparation?",
+                        "<div>Mit einem OD-Verhältnis (Absorptionsspektrum bei 280 und 260 nm messen) sollte bei knapp 2 liegen.&nbsp;</div><div>Gelelektrophorese: Färben mit Ethidiumbromid auf dem Gel dann sieht man die Banden. Wenn\nman da nichts sieht, dann ist da auch nichts drin. Außerdem wenn kurze Banden zu sehen sind, dann weist das auf vorhandene DNAsen hin.</div>"
+                    ],
+                    "guid": "l;vDKhknLL",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAPräp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert im Groben die Färbung mit Ethidiumbromid?",
+                        "Um die DNA auf einem Gel sichtbar zu machen, werden Farbstoffe wie Ethidiumbromid eingesetzt. Diese Farbstoff interkalieren mit der DNA, sodass sich die Moleküle in die Major Groove der DNA einlagern."
+                    ],
+                    "guid": "QC^G=IYGtP",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAPräp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie sieht eine Wachstumskurve von Bakterien in Vollmedium aus?",
+                        "<div>Inaktive Phase(Anlaufphase /lag-Phase): Bakterien bilden Enzyme die auf das Nährmedium spezialisiert sind.</div><div><br></div><div>exponentielle Wachstumsphase/log Phase: log Phase, weil wenn mans logarithmiert bekommt man eine Gerade, aus der man genau die Verdopplungszeit ablesen kann. → Volle Aktivität ca. halbe Stunde bis Stunde bis zur Verdoppelung&nbsp;</div><div><br></div><div>Stationäre Phase: es herrscht ein GG zwischen sterbenden und neugeborenen Bakterien, bzw. momentan ist alles aufgebraucht es passiert nichts mehr.&nbsp;</div><div><br></div><div>Deadphase: kein Nährmedium vorhanden → Bakterien sterben ab.</div>"
+                    ],
+                    "guid": "Jb;.@fg.W3",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAPräp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lautet das Lambert-Beer’sche Gesetz?",
+                        "<img src=\"Untitled-0f9fd1bb83254f52a52e4ae734f859b89c2db40a.png\">"
+                    ],
+                    "guid": "j#,u:zwv75",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAPräp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Alkoholfällung, welches sind die Ingredienzien?",
+                        "Isoprop, oder Ethanol (um die Hydrathüllen zu entziehen)\nSalz (um die Abstoßung zu Vermindern)"
+                    ],
+                    "guid": "Eq2C-1tA/-",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAPräp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der wichtigste Verfahrensunterschied zwischen der Präparation von genomischer Bakterien-DNA und Plasmid-DNA aus Bakterien?",
+                        "Bei genomischer DNA muss äußerst Vorsichtig gearbeitet werden, da diese im Gegensatz zu Plasmiden sehr lang ist. Außerdem muss darauf geachtet werden, dass die DNAsen nicht die gDNA zerschneiden. Der größte Unterschied besteht in der Isolierung, da die Isolierung mit NaOH und SDS nur für Plasmide geeignet ist, da diese schneller renaturieren."
+                    ],
+                    "guid": "rsEuv`Rpjh",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAPräp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welchen 3 Formen tritt Plasmid-DNA in Präparationen auf?",
+                        "<div>Die Plasmid-DNA tritt in:</div>\n<ol>\n<li>Closed-covalent-circular (ccc)</li>\n<li>Open-circular</li>\n<li>linear</li></ol>"
+                    ],
+                    "guid": "HLJ0Zap8!Y",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAPräp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist das Prinzip der CsCl-Ultrazentrifugation?",
+                        "<div>Neben den oben genannten Verfahren gibt es auch die Möglichkeit eine Präperation über einen CsCl-Gradienten zu machen.</div>\n<div>Bei diesem Verfahren werden die Moleküle nach ihrer Dichte, durch Ultrazentrifugation aufgetrennt. Zusätzlich wird CsCl dem Zellextrakt hinzugegeben. Die DNA kann dann bei einer CsCl Dichte von ca. 1,7 gefunden werden. Die DNA wird dann mittels einer Spritze entnommen. Anschließend wird das CsCl von der DNA-Lösung entfernt.</div>"
+                    ],
+                    "guid": "e%P!Tm&ihH",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAPräp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Reaktion katalysiert eine Nuklease?",
+                        "<div>Bauen Nukleinsäuren ab durch Hydrolyse des Phosphordiester-Backbones (=Rückgrat)\ndes Nukleinsäurestranges.&nbsp;</div><div>Zelluläre Nukleasen hydrolisieren immer: 5´-Phosphat und 3' Hydroxlgruppe</div>"
+                    ],
+                    "guid": "dq0/#DRF%T",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAModifikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Unterschied zwischen einer Endo- und einer Exonuklease ?",
+                        "<div>2 Klassen von Nukleasen:&nbsp;</div><div>Exonukleasen→Abbau vom Kettenende</div><div>Endonukleasen→Abbau im Ketteninneren<br></div>"
+                    ],
+                    "guid": "jXM[?ElJcL",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAModifikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Nuklease-Erkennungsstelle (oder -Erkennungssequenz) ?",
+                        "<div>Exonukleasen:&nbsp;</div><div>bauen nur jeweils einen der beiden Stränge ab, und zwar dann entweder\ndas 5‘-Ende oder das 3‘-Ende\nEndonukleasen:&nbsp;</div><div>Wählen ihre Hydrolysestellen entweder unspezifischoder aber\n(Sequenz-)spezifisch&nbsp;</div><div><br></div><div>Endonukleasen:&nbsp;</div><div>Erkennungsstelle sind spezifische Sequenzen an der die Endonuklease angreift\n→ Restriktionsendonuklease</div>"
+                    ],
+                    "guid": "F|$<d-eH5i",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAModifikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Auf welche Art und Weise – bezüglich der räumlichen Konstellation der „Spaltpunkte“ – kann eine Restriktionsendonuklease schneiden ?",
+                        "<div>Mehrere Spaltpunkte → 2 Stück weil 2 Stränge können gegenüberliegen → blunt\nversetzt → sticky 3' oder 5' überstehend.</div>"
+                    ],
+                    "guid": "GH:LNOu&zJ",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAModifikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind – im Kontext „Restriktionsenzyme“ – „kompatible Enden“ ?",
+                        "<div>Sticky ends. Sind von unterschiedlichen Restriktionsenzymen, können aber durchaus\nkompatibel sein.&nbsp;</div><div>Überstehende Enden die einander komplementär sind, können durch die Ligase verbunden sein.&nbsp;</div><div><br></div><div>Blunt ist immer kompatibel&nbsp;</div><div>Überstehende Enden die nicht hybridiesieren, da kann die Ligase nicht arbeiten</div>\n<div><br></div><div>Ligase kann nur Nick reparieren, Gaps kann sie nicht füllen.</div>"
+                    ],
+                    "guid": "oEk>2]5A/p",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAModifikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein 4er-Cutter, was ein 6er-Cutter?",
+                        "Steht für die Anzahl der Basen die in einer Sequenz erkannt werden.&nbsp;<div>4er Cutter braucht 4 Basen Sequenzen zum erkennen\nSequenz im Doppelstrang, dort bindet das Restriktionsenzym und schneidet.</div>"
+                    ],
+                    "guid": "LO23|NrtI1",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAModifikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann ein Restriktionsenzym seine Zielsequenz erkennen?",
+                        "Über die Major und Minor Groove"
+                    ],
+                    "guid": "bS:wOb=U(Y",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAModifikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Bestandteile hat man in einem Reaktionspuffer praktisch immer, welche Bestandteile darüber hinaus oftmals noch in einem Restriktionsenzympuffer?",
+                        "<div>Reaktionspuffer:&nbsp;</div><div>- Immer: konjugiertes Säure-Base-Paar</div><div>- bestimmte Salze(muss nicht unbedingt Metall sein, z.B\nAmmoniumchlorid)&nbsp;</div><div>- Magnesium-Ionen wird nur dann benötigt für Enzyme die mit DNA arbeiten → also beim\nRestriktionsenzympuffer&nbsp;</div><div>oftmals auch:&nbsp;</div><div>- Stabilisatoren</div><div>- Oxidationsschutz</div>"
+                    ],
+                    "guid": "o@)&sP($[E",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAModifikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Agarosegel, was ist ein Molekulargewichtsmarker oder –standard ?",
+                        "Agarosegel:&nbsp;<div>Molekularsieb, lineare Polymere, wenn die sich abkühlen bilden sie Trippelhelices → Sieb&nbsp;<div><br></div><div>Molekulargewichtsmarker oder -standard:&nbsp;</div><div>Standardmarker dient als Bezugsgröße und besteht aus Bestandteilen die bekannt sind, sodass man längen anderer Banden gut abschätzen kann</div></div>"
+                    ],
+                    "guid": "N=;*YYw3K[",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAModifikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Restriktionskartierung, wie funktioniert sie?",
+                        "<div>Man möchte wissen wo die Erkennungsstellen der Endorestriktionsnukleasen auf der DNA liegen.\nMan schneidet es mit mehreren Enzymen einfach\nund danach schneidet man alle 2er Kombinationen&nbsp;</div><div>…&nbsp;</div><div>Danach puzzelt man alle so zusammen, das alles aufgeht.</div>"
+                    ],
+                    "guid": "EFNs,?yJh_",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAModifikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Reaktionen katalysieren Polynukleotidkinase, alkalische Phosphatase und Terminale Desoxynukleotidyl Transferase?",
+                        "Alkalische Phosphatase: spaltet hydrolitisch Phospahtgruppen&nbsp;<div><br></div><div>Polynukleotidkinase: Phosphorilisiert DNA-Stränge&nbsp;</div><div><br></div><div>Terminale Desoxynukleotidyl Transferase : Terminal = Ende beim Doppelstrang! Werden\nNukleotide stück für stück drangehängt</div>"
+                    ],
+                    "guid": "zRwL4=ntA>",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNAModifikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele Oligonukleotide werden in einer PCR als Primer üblicherweise eingesetzt? Wie ist ihre relative Orientierung zueinander (in Bezug auf ihre 3’ oder 5’ Enden)?",
+                        "<div>Sie ist komplementär und gegenläufig.</div><div>Sie binden an 2 gegenüberliegenden Strängen in einen Abstand von wenigen Kilobasen\n2 unterschiedliche Primer</div>"
+                    ],
+                    "guid": "oY&T6m]:~6",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::PCR"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die 3 Segmente eines PCR-Zyklus und was geschieht (molekular) in jedem Segment ?",
+                        "Bei der PCR findet zunächst die Dentaturierung statt. Dort wird die DNA in zwei Einzelsträngen gespalten, indem die WBB zwischen den Nukleinbasen gebrochen werden. Danach findet das Primer-Annealing statt. Dort binden die Primer an die einzelsträngige DNA. Dieser Vorgang geschiet bei einer für die Primer speziellen Temperatur. Nach dem Annealing kommt es zur Primer-Elongation. Dabei synthetisiert die Taq-Polymerase einen komplementären Doppelstrang vom Primer ausgehend."
+                    ],
+                    "guid": "LG[MyvX`BW",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::PCR"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In jedem Segment sind die Parameter Zeit und Temperatur zu wählen. Nach welchen Regeln werden diese Parameter gewählt?&nbsp;<div>– Konkret: Wie schlägt sich GC-Gehalt sowie Länge&nbsp;</div><div>a) des Zielfragments sowie&nbsp;</div><div>b) der Oligonukleotidprimer in den gewählten Zeiten und Temperaturen nieder?</div>",
+                        "Die Denaturierungstemperatur wird so gewählt, dass die Taq-Polymerase nicht mit denaturiert und das die Primer nicht an die DNA-Matrize binden können.<div><br></div><div>Die Annealing-Temperatur hängt von der GC-Konzentration ab. Liegt eine hohe GC-Konzentration vor, muss die Annealing-Temperatur erhöht werden.&nbsp;</div><div><br></div><div>a) ist das Zielfragment lang, so muss ebenfalls die Denaturierungstemperatur höher gewählt werden, da es mehr WW zwischen den Basen gibt, als bei kürzeren Fragmenten.&nbsp;</div><div><br></div><div>b) Ist der Primer länger, so muss die Zeit für das Annealing auch größer sein, damit es genug Zeit gibt, das der Primer am Fragment binden kann.<br></div>"
+                    ],
+                    "guid": "z~P.e<rdw6",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::PCR"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist die Schmelztemperatur eines Oligonukleotids (bzw. Oligonukleotidprimers) definiert?",
+                        "Je größer die Länge des Primers desto höher des Schmelzpunktes\nSchmelzpunkt = GG zwischen gepaarten und ungepaarten BP (50: 50)\nDer Schmelzpunkt eines Oligonukleotids ist der Zeitpunkt bei dem die DNA zur Hälfte denaturiert und zur Hälfte noch doppelstängig ist."
+                    ],
+                    "guid": "dW~Yoi2v^A",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::PCR"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine „nested PCR“ und in welchen Fällen wird sie eingesetzt?",
+                        "<div>Verschachtelte PCR zuerst die außenliegenden und dann die innenliegenden werden verarbeitet&nbsp;</div><div>Macht man dann wenn man Spezifitätsprobleme hat.&nbsp;</div><div><br></div><div>One-Cup-PCR: Vorteil: Dauert nicht so lange, ist leichter zu handhaben und zu standardisieren&nbsp;</div><div><br></div><div>Two-Cup-PCR: Nicht mit Temperaturunterschied sondern zuerst 1 Primer, dann mit dem 2 Primer\ndurchlaufen lassen: Vorteil: Man kann zwischendurch kontrollieren</div>"
+                    ],
+                    "guid": "wnC9gYKv8J",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::PCR"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine „RT-PCR“ und zu wessen Amplifikation dient sie im Rahmen welcher wissenschaftlichen Fragestellung(en)?",
+                        "mRNA wird genutzt um PCR zu machen. Deshalb Reverse-Transkription\nz.B. um nachzugucken ob es exprimiert wurde, ob Gene drin sind welche nicht drin sind"
+                    ],
+                    "guid": "lr^o;iP-D;",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::PCR"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert die Sanger-Sequenzierung?&nbsp;<div><br></div><div>Welche besonderen Nukleotide werden dazu eingesetzt?</div>",
+                        "<img src=\"Untitled-cf6742445c1eb90123d0389aa63a3427014a43d7.png\">"
+                    ],
+                    "guid": "H?0{4n4;(L",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Sequenzierung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wurden früher die Sequenzierungsansätze markiert, wie werden sie es heute?",
+                        "<img src=\"Untitled-bed17cc6ef00ad478a4064c13eaf3243441374cf.png\">"
+                    ],
+                    "guid": "EcI>C55,nr",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Sequenzierung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welchem speziellen Fall kann man die gesamte Sequenzierungsreaktion in einem einzigen Ansatz (als „Eintopf-Reaktion“) durchführen ?",
+                        "Dies geht nur wenn man die Basen unterscheiden kann, sprich, wenn die ddNTPs\nfluoreszenz markiert sind, mit unterschiedlichen Farben."
+                    ],
+                    "guid": "L?<cCz~.kk",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Sequenzierung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist cycle sequencing?",
+                        "Beim cycle sequencing wird der zu sequenzierende DNA-Strang in zyklen sequenziert. Somit wird für die Sequnzierung weniger DNA als Ausgangstoff benötigt."
+                    ],
+                    "guid": "z$kc&^?4>b",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Sequenzierung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Auf welche Faktoren kann eine Mischsequenz (d.h. eine Überlagerung zweier unterschiedlicher Sequenzen) beruhen?",
+                        "Durch Primernebenbindestellen, wenn falsche Temperaturen eingestellt wurden.&nbsp;<div>Primer-Oligo bindet in Repeat Stellen\nTemplate-Gemisch (Mischklon oder PCR-Fragment Gemisch).</div>"
+                    ],
+                    "guid": "H6`9!_p~VN",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Sequenzierung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was macht man, wenn man mehr Sequenzinformation braucht, als der Sequenzieransatz an Leseweite hergibt?",
+                        "Man nimmt den Primer von kurz vorm Ende, setzt ihn rein und fängt von dort eine neue\nSequenzierung an."
+                    ],
+                    "guid": "nQNJ(SN0Zb",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::Sequenzierung"
+                    ]
                 }
             ]
         }
