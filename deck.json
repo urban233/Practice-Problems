@@ -39,32 +39,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "In welcher Form kommen die Erdalkalimetalle in der Natur vor?<div>{{c1::Sie kommen aufgrund ihrer hohen Reaktivität nur in gebundener Form in der Natur vor.}}<br></div><div><br></div><div>Be:<br>{{c2:: Beryll: Be3Al2[Si6O18]<br> Chrysoberyll: Al2[BeO4]}}<br></div><div><br>Mg:<br>{{c3:: Meerwasser: MgCl, MgCO4, MgBr2<br> Blattgrün: Chlorophyll<br> Carbonate:<br>o Magnesit: MgCO3<br>o Dolomit: MgCO3*CaCO3<br> Kalisalze:<br>o Kieserit: MgSO4*H2O<br>o Bittersalz: MgSO4*7H2O<br>o Kainit: KCl*MgSO4*3H2O<br>o Bischofit: MgCl2*6H2O<br> Silicate<br>o Olivin: (Mg,Fe)2[SiO4]<br>o Talk: [Mg3(OH)2][Si4O10]}}<br></div><div><br>Ca:</div><div>{{c4::<div> Kalk, Marmor, Kreide: CaCO3<br> Gips: CaSO4*2H2O<br> Anhydrit: CaSO4<br> Apatit: Ca5(PO4)3*(OH,F,Cl)<br> Flußspat: CaF2<br> Calciumhydroxid: Ca(OH)2</div><div></div>}}<br></div><div><br></div><div>Sr<br>{{c5:: Strontianit: SrCO3<br> Cölestin: SrSO4}}<br></div><div><br></div><div>Ba:<br>{{c6:: Witherit: BaCO3<br> Schwerspat: BaSO4}}<br></div><div><br>Ra:<br>{{c7::sehr selten (zerfällt radioaktiv)}}<br></div>",
-                        ""
-                    ],
-                    "guid": "LfApzB^9_:",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie können die Elemente in reiner (metallischer) Form dargestellt werden?<div><br><div>Elektrolytisches Verfahren:</div><div>{{c1::<div>1. Dolomitbrennen<br>2. \\(MgO + CaO + MgCl_2 + H_2O ↔ CaCl_2 + 2Mg(OH)_2 Mg(OH)_2 ↔ MgO + H_2O (durch ΔT)\\)<br>3. \\(MgO + C + Cl_2 ↔ MgCl_2 + CO\\)<br>4. \\(MgCl_2 ↔ Mg+Cl_2\\)<br>Senkung des Schmelzpunktes durch Zugabe von Alkalifluoriden auf 650-720°C<br>Rheinheitsgrad 99,8%<br>Zur Herstellung von 1kg Mg sind 18kWh nötig</div><div></div>}}<br></div><div><br></div><div>Carbothermisches Verfahren:</div><div>{{c2::<div>direkte Reduktion des MgO mit C im elektrischen Ofen (T = 2000°C)<br>\\(MgO + C \\rightarrow Mg + CO\\)<br>Sdp. Mg = 1107°C<br> Mg entweicht gasförmig<br> extrem schnelle Abkühlung und Kondensation in H2-Atmosphäre</div><div></div>}}<br></div><div><br></div><div>Silicothermisches Verfahren:<br>{{c3::direkte Reuktion von gebranntem Dolomit mit Si im Ofen (T = 1200-1400°C)<br>\\(2 MgO + 2 CaO + Si \\rightarrow&nbsp;Ca_2SiO_4 + Mg\\)<br>Sdp. Mg = 1107°C<br> Mg mit einem Reinheitsgrad von 98-99% wird abdestilliert und in luftgekühlten Vorlagen verdichtet}}<br></div></div>",
-                        ""
-                    ],
-                    "guid": "tFdw+KO=T<",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Erklären Sie die Unterschiede in den Gruppeneigenschaften zwischen Be und Mg sowie Ca, Sr und Ba.<div>Allgemein:</div><div>{{c1::</div><div>- wegen erhöhter Kernladungszahl größere Elektronegativität und kleinere Atomradien als in HG I<br>- ähnliches chemisches Verhalten von Calcium, Strontium und Barium<br>- große Sprünge im chemischen Verhalten von Beryllium zu Magnesium und zu Ca, Sr}}<br></div><div><br>Be:&nbsp;</div><div>{{c2::</div><div>- hohe Ionisierungsenergie und kleiner Atomradius \\(\\rightarrow\\) vorwiegend kovalente Verbindungen}}</div><div><br></div><div>Mg:&nbsp;</div><div>{{c3::<div>- bildet sowohl kovalente als auch ionische Verbindungen \\(\\rightarrow\\)&nbsp;steht zwischen Be und Ca, Sr und Ba</div><div></div>}}<br></div><div><br></div><div>Ca,Sr,Ba:</div><div>{{c4::</div><div>- bilden vorwiegend ionische Festkörper; enge Verwandtschaft \\(\\rightarrow\\)&nbsp;Eigenschaften ändern sich systematisch mit}}</div>",
                         ""
                     ],
@@ -315,19 +289,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Welche Bedeutung haben Ca-Verbindungen als Bindebaustoffe? Erklären Sie den Prozess der Herstellung sowie die Reaktionen, die zur Namengebung dieser Stoffe beigetragen haben und deren Funktion sichern.<div>Gips:<br>{{c1::\\(\\CaSO_4*2H_2O\\) wird bergmännisch abgebaut<br>Gipsbrennen: \\(\\CaSO_4*2H_2O&nbsp;\\rightarrow CaSO_4*½H_2O\\) (Hartformgips)<br>\\(\\CaSO_4*½H_2O \\rightarrow&nbsp;CaSO_4\\) (Anhydrid I,II oder III)<br>Bei der Verwendung wird der Gips mit Wasser angerührt worauf es nach einiger Zeit zum Abbinden kommt: \\(\\CaSO_4 + 2H_2O \\rightarrow&nbsp;CaSO_4*2H_2O\\)</div><div>Dabei verfilzen die nadelförmigen Kristalle.<br>Dadurch bekommt der Gips wieder eine hohe Festigkeit wodurch er als Innen-, Außenputz und für Estriche nutzbar wird.}}<br>Kalk:<br>{{c2::\\(\\CaCO_3\\) wird bergmännisch abgebaut<br>Kalk brennen: \\(\\CaCO_3\\)&nbsp;(Kalkstein) \\(\\rightarrow\\)&nbsp;CaO (gebrannter Kalk) + \\(\\CO_2\\)↑<br>Kalk löschen: \\(\\CaO + 2H_2O&nbsp;\\rightarrow Ca(OH)_2\\) (Löschkalk oder Luftmörtel)<br>Verwendung: Löschkalk + Sand + H2O \\(\\rightarrow\\)&nbsp;Kalkmörtel<br>Abbinden: \\(\\Ca(OH)_2 + CO_2\\) (aus der Luft) \\(\\rightarrow&nbsp;CaCO_3 + H_2O\\)}}<br></div>",
-                        ""
-                    ],
-                    "guid": "dM1m0q+v|-",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Welche physiologischen Eigenschaften besitzen die Erdalkalimetalle und in welchen Biomineralien kommen sie vor?<div>Be:&nbsp;</div><div>{{c1::extrem giftig, stark krebserzeugend}}<br>Mg:</div><div>{{c2::Salze spielen vor allem bei Pflanzen im Stoffwechsel eine bedeutende Rolle (Chlorophyll)}}<br>Ca:&nbsp;</div><div>{{c3::Verbindungen in Knochen (Calciumphosphat), Zähnen, Gehäusen (Calciumcarbonat), sowie verschiedenen Pflanzen (Calciumoxalat)}}<br>Sr:&nbsp;</div><div>{{c4::Strontiumbromid ist ein in der Medizin verwendetes Beruhigungsmittel}}<br>Ba:</div><div>{{c5::giftig}}<br></div>",
                         ""
                     ],
@@ -362,32 +323,6 @@
                     "tags": [
                         "_PP::AC::HG2",
                         "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Nach welchen 3 Verfahren kann metallisches Magnesium hergestellt werden? Erläutern sie den Verfahrensablauf anhand der entsprechenden Reaktionsgleichungen und Reaktionsbedingungen.<div>Elektrolytisches Verfahren:<br>{{c1::1. Dolomitbrennen<br>2. MgO + CaO + \\(MgCl_2 + H_2O\\) ↔ \\(CaCl_2 + 2Mg(OH)_2 Mg(OH)_2\\) ↔ MgO + \\(H_2O\\) (durch ΔT)<br>3. MgO + C + \\(Cl_2\\) ↔ \\(MgCl_2\\) + CO</div><div>4. \\(MgCl_2\\) ↔ Mg+\\(Cl_2\\)</div><div>Senkung des Schmelzpunktes durch Zugabe von Alkalifluoriden auf 650-720°C<br>Rheinheitsgrad 99,8%<br>Zur Herstellung von 1kg Mg sind 18kWh nötig}}</div><div><br>Carbothermisches Verfahren:<br>{{c2::direkte Reduktion des MgO mit C im elektrischen Ofen (T = 2000°C)<br>MgO + C \\(\\rightarrow\\) Mg + CO<br>Sdp. Mg = 1107°C<br>- Mg entweicht gasförmig<br>- extrem schnelle Abkühlung und Kondensation in \\(H_2\\)-Atmosphäre}}</div><div><br>Silicothermisches Verfahren:<br>{{c3::direkte Reuktion von gebranntem Dolomit mit Si im Ofen (T = 1200-1400°C)<br>2MgO + 2CaO + Si \\(\\rightarrow\\) \\(Ca_2SiO_4\\) + Mg</div><div>Sdp. Mg = 1107°C<br>- Mg mit einem Reinheitsgrad von 98-99% wird abdestilliert und in luftgekühlten Vorlagen verdichtet}}<br></div>",
-                        ""
-                    ],
-                    "guid": "K/rfe%]@p.",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "In welcher Form kommen die Alkalimetalle in der Natur vor?<div>{{c1::Aufgrund ihrer hohen Reaktivität (erste Ionisierungsenergie recht gering) kommen\nAlkalimetalle nur gebunden in der Natur in Form von einwertigen Kationen vor.::Allgemeines Vorkommen}}<br></div><div><br></div><div>Li:&nbsp;</div><div>{{c2::<div> “Begleiter“ des Kaliums und Natriums (ist oft in deren Vorkommen in geringen\nKonzentrationen mit enthalten)&nbsp;</div><div> Petalit \\(LiAl[Si_2O_5]_2\\)&nbsp;</div><div> Spodumen \\(LiAl[SiO_3]_2\\)&nbsp;</div>}}<br></div><div>Na:&nbsp;</div><div>{{c3::<div> Natronfeldspat \\(NaAlSi_3O_8\\)&nbsp;</div><div> Chilesalpeter (\\NaNO_3\\)&nbsp;</div><div> \\(NaCl\\) Steinsalz in Lagerstätten\ngelöst im Meerwasser&nbsp;</div><div> Kryolith \\(Na_3AlF_6\\)&nbsp;</div><div> Soda \\(Na_2CO_3\\)&nbsp;</div>}}<br></div><div>K:&nbsp;</div><div>{{c4::<div> Sylvin \\(KCl\\)&nbsp;</div><div> Kalifeldspat \\(K[AlSi_3O_8]\\)&nbsp;</div><div> Carnalit \\(KCl*MgCl_2*6H_2O\\)</div>}}<br></div>",
-                        ""
-                    ],
-                    "guid": "t#1oTIMe%q",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG1",
-                        "AnorganischeChemie::HG1"
                     ]
                 },
                 {
@@ -467,6 +402,71 @@
                         "_PP::AC::HG1",
                         "AnorganischeChemie::HG1"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welcher Form kommen die Erdalkalimetalle in der Natur vor?<div>{{c1::Sie kommen aufgrund ihrer hohen Reaktivität nur in gebundener Form in der Natur vor.}}<br></div><div><br></div><div>Be:<br>{{c2:: Beryll: Be3Al2[Si6O18]<br> Chrysoberyll: Al2[BeO4]}}<br></div><div><br>Mg:<br>{{c3:: Meerwasser: MgCl, MgCO4, MgBr2<br> Blattgrün: Chlorophyll<br> Carbonate:<br>o Magnesit: MgCO3<br>o Dolomit: MgCO3*CaCO3<br> Kalisalze:<br>o Kieserit: MgSO4*H2O<br>o Bittersalz: MgSO4*7H2O<br>o Kainit: KCl*MgSO4*3H2O<br>o Bischofit: MgCl2*6H2O<br> Silicate<br>o Olivin: (Mg,Fe)2[SiO4]<br>o Talk: [Mg3(OH)2][Si4O10]}}<br></div><div><br>Ca:</div><div>{{c4::<div> Kalk, Marmor, Kreide: CaCO3<br> Gips: CaSO4*2H2O<br> Anhydrit: CaSO4<br> Apatit: Ca5(PO4)3*(OH,F,Cl)<br> Flußspat: CaF2<br> Calciumhydroxid: Ca(OH)2</div><div></div>}}<br></div><div><br></div><div>Sr<br>{{c5:: Strontianit: SrCO3<br> Cölestin: SrSO4}}<br></div><div><br></div><div>Ba:<br>{{c6:: Witherit: BaCO3<br> Schwerspat: BaSO4}}<br></div><div><br>Ra:<br>{{c7::sehr selten (zerfällt radioaktiv)}}<br></div>",
+                        ""
+                    ],
+                    "guid": "LfApzB^9_:",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie können die Elemente in reiner (metallischer) Form dargestellt werden?<div><br><div>Elektrolytisches Verfahren:</div><div>{{c1::<div>1. Dolomitbrennen<br>2. \\(MgO + CaO + MgCl_2 + H_2O ↔ CaCl_2 + 2Mg(OH)_2 Mg(OH)_2 ↔ MgO + H_2O (durch ΔT)\\)<br>3. \\(MgO + C + Cl_2 ↔ MgCl_2 + CO\\)<br>4. \\(MgCl_2 ↔ Mg+Cl_2\\)<br>Senkung des Schmelzpunktes durch Zugabe von Alkalifluoriden auf 650-720°C<br>Rheinheitsgrad 99,8%<br>Zur Herstellung von 1kg Mg sind 18kWh nötig</div><div></div>}}<br></div><div><br></div><div>Carbothermisches Verfahren:</div><div>{{c2::<div>direkte Reduktion des MgO mit C im elektrischen Ofen (T = 2000°C)<br>\\(MgO + C \\rightarrow Mg + CO\\)<br>Sdp. Mg = 1107°C<br> Mg entweicht gasförmig<br> extrem schnelle Abkühlung und Kondensation in H2-Atmosphäre</div><div></div>}}<br></div><div><br></div><div>Silicothermisches Verfahren:<br>{{c3::direkte Reuktion von gebranntem Dolomit mit Si im Ofen (T = 1200-1400°C)<br>\\(2 MgO + 2 CaO + Si \\rightarrow&nbsp;Ca_2SiO_4 + Mg\\)<br>Sdp. Mg = 1107°C<br> Mg mit einem Reinheitsgrad von 98-99% wird abdestilliert und in luftgekühlten Vorlagen verdichtet}}<br></div></div>",
+                        ""
+                    ],
+                    "guid": "tFdw+KO=T<",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Bedeutung haben Ca-Verbindungen als Bindebaustoffe? Erklären Sie den Prozess der Herstellung sowie die Reaktionen, die zur Namengebung dieser Stoffe beigetragen haben und deren Funktion sichern.<div>Gips:<br>{{c1::\\(\\CaSO_4*2H_2O\\) wird bergmännisch abgebaut<br>Gipsbrennen: \\(\\CaSO_4*2H_2O&nbsp;\\rightarrow CaSO_4*½H_2O\\) (Hartformgips)<br>\\(\\CaSO_4*½H_2O \\rightarrow&nbsp;CaSO_4\\) (Anhydrid I,II oder III)<br>Bei der Verwendung wird der Gips mit Wasser angerührt worauf es nach einiger Zeit zum Abbinden kommt: \\(\\CaSO_4 + 2H_2O \\rightarrow&nbsp;CaSO_4*2H_2O\\)</div><div>Dabei verfilzen die nadelförmigen Kristalle.<br>Dadurch bekommt der Gips wieder eine hohe Festigkeit wodurch er als Innen-, Außenputz und für Estriche nutzbar wird.}}<br>Kalk:<br>{{c2::\\(\\CaCO_3\\) wird bergmännisch abgebaut<br>Kalk brennen: \\(\\CaCO_3\\)&nbsp;(Kalkstein) \\(\\rightarrow\\)&nbsp;CaO (gebrannter Kalk) + \\(\\CO_2\\)↑<br>Kalk löschen: \\(\\CaO + 2H_2O&nbsp;\\rightarrow Ca(OH)_2\\) (Löschkalk oder Luftmörtel)<br>Verwendung: Löschkalk + Sand + H2O \\(\\rightarrow\\)&nbsp;Kalkmörtel<br>Abbinden: \\(\\Ca(OH)_2 + CO_2\\) (aus der Luft) \\(\\rightarrow&nbsp;CaCO_3 + H_2O\\)}}<br></div>",
+                        ""
+                    ],
+                    "guid": "dM1m0q+v|-",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nach welchen 3 Verfahren kann metallisches Magnesium hergestellt werden? Erläutern sie den Verfahrensablauf anhand der entsprechenden Reaktionsgleichungen und Reaktionsbedingungen.<div>Elektrolytisches Verfahren:<br>{{c1::1. Dolomitbrennen<br>2. MgO + CaO + \\(MgCl_2 + H_2O\\) ↔ \\(CaCl_2 + 2Mg(OH)_2 Mg(OH)_2\\) ↔ MgO + \\(H_2O\\) (durch ΔT)<br>3. MgO + C + \\(Cl_2\\) ↔ \\(MgCl_2\\) + CO</div><div>4. \\(MgCl_2\\) ↔ Mg+\\(Cl_2\\)</div><div>Senkung des Schmelzpunktes durch Zugabe von Alkalifluoriden auf 650-720°C<br>Rheinheitsgrad 99,8%<br>Zur Herstellung von 1kg Mg sind 18kWh nötig}}</div><div><br>Carbothermisches Verfahren:<br>{{c2::direkte Reduktion des MgO mit C im elektrischen Ofen (T = 2000°C)<br>MgO + C \\(\\rightarrow\\) Mg + CO<br>Sdp. Mg = 1107°C<br>- Mg entweicht gasförmig<br>- extrem schnelle Abkühlung und Kondensation in \\(H_2\\)-Atmosphäre}}</div><div><br>Silicothermisches Verfahren:<br>{{c3::direkte Reuktion von gebranntem Dolomit mit Si im Ofen (T = 1200-1400°C)<br>2MgO + 2CaO + Si \\(\\rightarrow\\) \\(Ca_2SiO_4\\) + Mg</div><div>Sdp. Mg = 1107°C<br>- Mg mit einem Reinheitsgrad von 98-99% wird abdestilliert und in luftgekühlten Vorlagen verdichtet}}<br></div>",
+                        ""
+                    ],
+                    "guid": "K/rfe%]@p.",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welcher Form kommen die Alkalimetalle in der Natur vor?<div>{{c1::Aufgrund ihrer hohen Reaktivität (erste Ionisierungsenergie recht gering) kommen\nAlkalimetalle nur gebunden in der Natur in Form von einwertigen Kationen vor.::Allgemeines Vorkommen}}<br></div><div><br></div><div>Li:&nbsp;</div><div>{{c2::<div> “Begleiter“ des Kaliums und Natriums (ist oft in deren Vorkommen in geringen\nKonzentrationen mit enthalten)&nbsp;</div><div> Petalit \\(LiAl[Si_2O_5]_2\\)&nbsp;</div><div> Spodumen \\(LiAl[SiO_3]_2\\)&nbsp;</div>}}<br></div><div>Na:&nbsp;</div><div>{{c3::<div> Natronfeldspat \\(NaAlSi_3O_8\\)&nbsp;</div><div> Chilesalpeter (\\NaNO_3\\)&nbsp;</div><div> \\(NaCl\\) Steinsalz in Lagerstätten\ngelöst im Meerwasser&nbsp;</div><div> Kryolith \\(Na_3AlF_6\\)&nbsp;</div><div> Soda \\(Na_2CO_3\\)&nbsp;</div>}}<br></div><div>K:&nbsp;</div><div>{{c4::<div> Sylvin \\(KCl\\)&nbsp;</div><div> Kalifeldspat \\(K[AlSi_3O_8]\\)&nbsp;</div><div> Carnalit \\(KCl*MgCl_2*6H_2O\\)</div>}}<br></div>",
+                        ""
+                    ],
+                    "guid": "t#1oTIMe%q",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG1",
+                        "AnorganischeChemie::HG1"
+                    ]
                 }
             ]
         },
@@ -479,9 +479,179 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "Untitled-0d987e1d4a53097aacb024e184a347bd0c4eff17.png",
+                "Untitled-3247dd89af263ecd7a44020e7905eb9913777b7c.png",
+                "Untitled-32a21480092c16dfa29d493bfeb13990bbd3ef8c.png",
+                "Untitled-3851398f0a0dd170b34121f744cef55d77cf8c4d.png",
+                "Untitled-5dd06f815b58e5da8076bb5b2bd52373102f8911.png",
+                "Untitled-5f0725dbde0dd9a5e0c5820460f6024d621b846f.png",
+                "Untitled-66e58b75dc6969c0e75e652ac06d71efc9f5e0a4.png",
+                "Untitled-acb68f9787049c6592d2c5b92c32e5a470d3cd1a.png",
+                "Untitled-ada80c8688530e8af1844182a178002120d79f5f.png",
+                "Untitled-af3199a8d7e06062db79d3e228ac6df547d0cbff.png",
+                "Untitled-d4bb7ab6d6e37432764477d4df23aba542c67e22.png",
+                "Untitled-f9c7d017aa1699da8d5494509a91aaec9b2104c7.png"
+            ],
             "name": "Biochemie",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Ein Proteinsegment, das 40 Aminosäurereste umfasst, faltet sich in eine doppelsträngige, antiparallele $\\beta$-Faltblatt-Struktur mit einer vier Reste umfassenden Haarnadelschleife.</div><div><br></div>\n<div>Wie lang ist dieses Strukturmotiv höchstens?</div>\n<div>(Tipp: Die Schleife soll keinen Extraplatz beanspruchen; Steighöhe β-Faltblatt: 0,35 nm/Rest)</div>",
+                        "<img src=\"Untitled-ada80c8688530e8af1844182a178002120d79f5f.png\">"
+                    ],
+                    "guid": "v2Q*&V6Bk7",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Proteine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Tropomyosin, ein 70-kd-Muskelprotein, ist eine doppelsträngige, superspiralisierte α-Helix.</div>\n<div><br></div><div>Wie lang ist das Molekül?</div>\n<div>(Tipp: Das mittlere Molekulargewicht einer Aminosäure beträgt 110 D).</div>",
+                        "<img src=\"Untitled-d4bb7ab6d6e37432764477d4df23aba542c67e22.png\">"
+                    ],
+                    "guid": "kG,5h#N%KG",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Proteine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Poly-L-Leucin ist in einem organischen Lösungsmittel wie Dioxan eine α-Helix, Poly-L-Isoleucin dagegen nicht.</div>\n<div>Warum unterscheiden sich diese Aminosäuren mit der gleichen Anzahl und Art von Atomen in ihrem Bestreben eine α-Helix auszubilden?</div>",
+                        "Da Isoleucin bei seiner Struktur eine Methylgruppe, nahe der Carboxylgruppe besitzt, ist es sterisch gesehen nicht möglich eine \\(\\alpha\\)-Helix auszubilden."
+                    ],
+                    "guid": "s-ht5hZ`HT",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Proteine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beschreiben Sie die Kräfte, die Proteine stabilisieren.",
+                        "<ul>\n<li>Ionenbindungen</li>\n<li>eWW</li>\n<li>WBB</li>\n<li>VdW</li>\n<li>hydrophobe WW</li>\n<li>DDW</li>\n</ul>\n<div><img src=\"Untitled-5f0725dbde0dd9a5e0c5820460f6024d621b846f.png\"><br></div>"
+                    ],
+                    "guid": "EluG}Vcg4D",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Proteine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Proteine dimerisieren häufig über coiled coil Sequenzen. Hier benötigt eine Helix nur 3,5\nAminosäuren pro turn. Tropomyosin, ein 70-kd-Muskelprotein, ist so eine doppelsträngige,\nsuperspiralisierte α-Helix.</div>\n<div><br></div><div>Wie lang ist das Molekül?</div>\n<div>(Tipp: Das mittlere Molekulargewicht einer Aminosäure beträgt 110 D).</div>",
+                        "<div>Molekülmasse: 70 kD → 70000 D</div>\n<div>Superspiralisiert → 2 \\(\\alpha\\)-Helices → \\(\\frac{700000}{2}\\) = 35000</div>\n<div>Anzahl an AS berechnen: \\(\\frac{35000\\space D}{110\\space D}\\) → 318 AS</div>\n<div>Anzahl an Windungen berechnen: \\(\\frac{318}{3,5}\\) → 90,9 Windungen</div>\n<div>Länge des Peptids:  \\(90,9 \\cdot 0,54\\space \\text{nm} =49\\space \\text{nm}\\)</div>"
+                    ],
+                    "guid": "PfbDxm;<Q3",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Proteine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Gruppen in einem Protein können bei pH 7 mit Arginin Wasserstoffbrücken oder elektrostatische Bindungen ausbilden?",
+                        "<div>Das Arginin liegt bei einem pH von 7, positiv vor. Somit kann es zu allen negativ geladnen Gruppen eine eWW ausbilden. Diese sind Glutamat, Aspartat und das Carboxylende.</div>\n<div><br></div><div>Da sich WBB meistens zwischen Sauerstoff und Stickstoff ausbilden, können folgende Gruppen, diese ausbilden:  Threonin, Serin, Tyrosin, Glutamat und Aspartat, sowie Glutamin und Asparagin. Zusammengefasst also alle Aminosäuren, die eine Hydroxygruppe und eine Säure- bzw. Amidfunktion in ihrem Rest haben.</div>"
+                    ],
+                    "guid": "zSHLi9jL7F",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Proteine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>a) Durch welche Eigenschaften unterscheiden sich Enzyme von anderen Katalysatoren?</div>\n<div>b) Welche Faktoren beeinflussen die Substratspezifität eines Enzyms?</div>\n<div>c) Warum sind für einige enzymatische Reaktionen Cofaktoren notwendig?</div>\n<div>d) Nennen Sie einige Mechanismen zur Regulation der Enzymaktivität!</div>",
+                        "<img src=\"Untitled-acb68f9787049c6592d2c5b92c32e5a470d3cd1a.png\">"
+                    ],
+                    "guid": "q}XS-#@-bG",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Enzyme"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"Untitled-3851398f0a0dd170b34121f744cef55d77cf8c4d.png\">",
+                        "<div>a) Isomerase</div>\n<div>b) Lyase ⇒ Vermehrung der DBs</div>\n<div>c) Oxioreduktase</div>"
+                    ],
+                    "guid": "AbXmE8zpH3",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Enzyme"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"Untitled-5dd06f815b58e5da8076bb5b2bd52373102f8911.png\">",
+                        "<div>A: Nein, weil das aktive Zentrum innerhalb des Proteins, vorliegt, dennoch ist es eine kurze Abfolge in der Primärstruktur</div>\n<div>B: Ja, das stimmt. GAP-DH als Beispiel</div>\n<div>C: Ja sie verschieben die Aktiverungsenergiebarriere, aber nicht den Gleichgewichtspunkt. Sondern sie beschleunigen das Einstellen des GGs</div>\n<div>D: Nein \\(K_m\\) ist die Subtratkonzentration bei \\(\\frac{v_{max}}{2}\\)</div>\n<div>E: Ja das stimmt, die Bindung eines allosterischen Faktors findet nicht im aktiven Zentrum sondern an eine dafür vorgesehende Bindestelle statt.</div>\n<div>F: Falsch, die Ionenaustauschchromatographie trennt nach der Ladung der Proteine</div>"
+                    ],
+                    "guid": "I~p]zel4n|",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Enzyme"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wenn man hexa-GlcNAc, das zwischen den Zuckerresten D und E ein glykosidisches \\( ^{18}\\)O-Atom\nenthält, durch Lysozym hydrolysiert, in welchem Produkt und wo dort wird man dann das markierte\nSauerstoffatom wiederfinden?",
+                        "<img src=\"Untitled-f9c7d017aa1699da8d5494509a91aaec9b2104c7.png\">"
+                    ],
+                    "guid": "Gtg#.ec&Fb",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Enzyme"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"Untitled-32a21480092c16dfa29d493bfeb13990bbd3ef8c.png\">",
+                        "<img src=\"Untitled-0d987e1d4a53097aacb024e184a347bd0c4eff17.png\">"
+                    ],
+                    "guid": "Q[KpR3aKh[",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Enzyme"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"Untitled-66e58b75dc6969c0e75e652ac06d71efc9f5e0a4.png\">",
+                        "<img src=\"Untitled-3247dd89af263ecd7a44020e7905eb9913777b7c.png\">"
+                    ],
+                    "guid": "cd~w(UY49U",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Enzyme"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welches der folgenden Oligosaccharide wird am Lysozym am schnellsten, welches am langsamsten hydrolysieren (G = N-Acetylglucosamin, M = NAcetylmuraminsäure)?<div><div>a) M-M-M-M-M-M</div>\n<div>b) G-M-G-M-G-M</div>\n<div>c) M-G-M-G-M-G</div></div>",
+                        "<img src=\"Untitled-af3199a8d7e06062db79d3e228ac6df547d0cbff.png\">"
+                    ],
+                    "guid": "MNHFU}A/X.",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Enzyme"
+                    ]
+                }
+            ]
         },
         {
             "__type__": "Deck",
@@ -502,6 +672,7 @@
                 "Untitled-6656c93e5fd7a27ad781faf35494359247312a9b.png",
                 "Untitled-94020deef8bed734a6a9a97df2ed1edb88df1dfb.png",
                 "Untitled-bed17cc6ef00ad478a4064c13eaf3243441374cf.png",
+                "Untitled-c90e96ddd58e54c611d202d2b846086321d9170f.png",
                 "Untitled-caf10487c195dfecf0cf0f0f266159a568cc789e.png",
                 "Untitled-cf6742445c1eb90123d0389aa63a3427014a43d7.png"
             ],
@@ -1215,6 +1386,90 @@
                     "tags": [
                         "_PP::Genetik::Sequenzierung"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Unterschied zwischen „klonen“ und „klonieren“? Definiere!",
+                        "<div>Klonen: Erstellen erbgleicher Individuen „eineiige Zwillinge/ Pflanzenstecklinge/ Dolly)&nbsp;</div><div><br></div><div>Klonieren = molecular cloning: Erstellen von vermehrungsfähigen DNA-Konstrukten, die dann\neinen molekularen Klon (z.B. Plasmidklon) des Ausgangskonstruktes bilden.</div>"
+                    ],
+                    "guid": "rf+TXogNK&",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Grundsätzlich werden bei Klonierungsschritten zwei verschiedenartige DNA-Moleküle kombiniert. Welche, und was sind ihre Eigenschaften?",
+                        "Zum einen das Plasmid, und zum anderen den Insert&nbsp;<div><br></div><div>Plasmid dient als vektor:</div><div>- selektionsmarker</div><div>- origin of replication → Replikon</div><div>- autonom&nbsp;</div><div>replizierendes Fragment:</div><div>- Polylinker, insert ist gewünschtes zu klonierendes DNA-Fragment. - Schnittstellen müssen passe</div>"
+                    ],
+                    "guid": "fcuLLg&Zji",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Vektor?&nbsp;<div><br></div><div>Welche 2 Gruppen / Typen von Vektoren gibt es?</div><div><br></div><div>Wie bringt man die beiden Typen jeweils in eine Bakterienzelle?&nbsp;</div><div>Welchen Vor- bzw. Nachteil hat jede Gruppe gegenüber der anderen?</div>",
+                        "Vektor ist ein Vehikel zum klonieren von DNA-Fragmenten.&nbsp;<div>Vektor nimmt Fremd-DNA auf,\nschert in die Wirtszelle ein und kann dort unabhängig vom Bakterium vermehrt werden.&nbsp;</div><div><br></div><div>Plasmidvektoren: Transformation&nbsp;</div><div>Vorteile:&nbsp;</div><div>- einfach zu Handhaben</div><div>- schnelle Vermehrungsraten möglich</div><div>- Kann bis zu 12kBp\naufnehmen.</div><div>- Leichter zu Transformieren\neinfacher in die Zelle einzubringen.&nbsp;</div><div><br></div><div>Nachteil:&nbsp;</div><div>schlechte Effizienz (miserable Transformationsrate)</div><div><br></div><div><br></div><div>Bakteriophagen: Infektion (Lambda und M13 Phagen)&nbsp;</div><div>Vorteil:&nbsp;</div><div>- gewünschtes DNA-Fragment wird selbstständig von der Phage injeziert und somit\neingebaut.&nbsp;</div><div>- Kann bis zu mehreren Hundert kBp aufnehmen (besser wenn man größere DNAFragmente vermehren will)&nbsp;</div><div>- Effizienz von über 10% das DNA in Zelle eindringt.&nbsp;</div><div><br></div><div>Nachteil:</div><div>- zerstören nach jedem Zyklus die Bakterienzellen (Lambda), besser M13 → zerstört Bakterien\nnicht → DNA wird „ausgeschwitzt“.&nbsp;</div><div>- Die DNA muss erst in Phagen eingebaut werden in vitro</div>"
+                    ],
+                    "guid": "B,QZuc>p*I",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welcher in der Vorlesung vorgestellten Vektoren hat eine ziemlich strikte Größenbeschränkung, bezogen auf die DNA-Inhalt?<div>Warum?</div>",
+                        "Der Lambda-Phage hat eine strikte Größenbeschränkung, da der \"Kopf\" (Capsid) des Phagens nur ein begrenztes Volumen hat. Somit ist auch die Menge an DNA durch dieses Volumen begrenzt.&nbsp;<div>Bei M13 wird die Phage eben länger wenn DNA länger.</div>"
+                    ],
+                    "guid": "vPo>Zu0MJ4",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aus welchen Schritten besteht ein Cloning-Versuch (bis zum fertigen Konstrukt)?",
+                        "<div>1. DNA Präparation von Vektor und dem zu klonierenden Fragment&nbsp;</div><div>2. schneiden der beiden Moleküle mit dem gleichen Restriktionsenzym und isolieren&nbsp;</div><div>3. Ligation der Moleküle (Vektor + Insert), mehr Insert&nbsp;</div><div>4. Einschleusen in Wirtszelle&nbsp;</div><div>5. Selektion und Vermehrung&nbsp;</div><div>6. Überprüfung (Restriktion und Sequenzierung)</div>"
+                    ],
+                    "guid": "NqKaSIh`p]",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beschreiben Sie das Transformationsexperiment von Griffith / Avery?<div>&nbsp;<div>Wie hat er geschlossen, dass genetische Information übertragen wurde?&nbsp;</div><div><br></div><div>Wie hat er geschlossen, dass das übertragende Agens DNA ist?<br></div></div>",
+                        "<img src=\"Untitled-c90e96ddd58e54c611d202d2b846086321d9170f.png\">"
+                    ],
+                    "guid": "JnTholM-+P",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der lytische, was der lysogene Zyklus von Lambda?",
+                        "<b>Lytisch</b>:&nbsp;<div>Phagen DNA wird in Wirtszelle injeziert. Phage bleibt auf Oberfläche zurück.&nbsp;</div><div><br></div><div>Latenzphase: in Wirtsbakterium ist keine PhagenDNA nachweisbar. Phagengene erlangen\nKontrolle über Bakterium.&nbsp;</div><div><br></div><div>Produktionsphase: Bakterium wurde umprogrammiert →\nGenexpression.&nbsp;</div><div>Reifungsphase: Virusbausteine lagern sich zusammen.&nbsp;</div><div><br></div><div>Freisetzung: Bildung\nvon Lysozym, Bakterienzellwände lösen sich auf, Bakteriophagen werden freigesetzt.\n→ virulent.&nbsp;</div><div><br></div><div><br></div><div><b>Lysogen</b>:&nbsp;</div><div>Infektion bleibt zunächst verborgen da sich Phagen-DNA in WirtsDNA einbaut.&nbsp;</div><div>→ Temperent, kann jederzeit in lytischen Zyklus übergehen</div>"
+                    ],
+                    "guid": "Q5,I}pq)eG",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
                 }
             ]
         }
@@ -1490,7 +1745,9 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "_PP::Biochemie::Enzyme"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
