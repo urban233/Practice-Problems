@@ -10,9 +10,373 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "65a40801f7444e4f928a0c30a4ec9aa5-oa-1-A.svg",
+                "65a40801f7444e4f928a0c30a4ec9aa5-oa-1-Q.svg",
+                "65a40801f7444e4f928a0c30a4ec9aa5-oa-2-A.svg",
+                "65a40801f7444e4f928a0c30a4ec9aa5-oa-2-Q.svg",
+                "65a40801f7444e4f928a0c30a4ec9aa5-oa-3-A.svg",
+                "65a40801f7444e4f928a0c30a4ec9aa5-oa-3-Q.svg",
+                "65a40801f7444e4f928a0c30a4ec9aa5-oa-O.svg",
+                "bb65a879314a4b3b83727c46f79ef8d5-oa-1-A.svg",
+                "bb65a879314a4b3b83727c46f79ef8d5-oa-1-Q.svg",
+                "bb65a879314a4b3b83727c46f79ef8d5-oa-2-A.svg",
+                "bb65a879314a4b3b83727c46f79ef8d5-oa-2-Q.svg",
+                "bb65a879314a4b3b83727c46f79ef8d5-oa-3-A.svg",
+                "bb65a879314a4b3b83727c46f79ef8d5-oa-3-Q.svg",
+                "bb65a879314a4b3b83727c46f79ef8d5-oa-O.svg",
+                "eae782d11c26451c90f08c5b88a70d68-oa-1-A.svg",
+                "eae782d11c26451c90f08c5b88a70d68-oa-1-Q.svg",
+                "eae782d11c26451c90f08c5b88a70d68-oa-2-A.svg",
+                "eae782d11c26451c90f08c5b88a70d68-oa-2-Q.svg",
+                "eae782d11c26451c90f08c5b88a70d68-oa-3-A.svg",
+                "eae782d11c26451c90f08c5b88a70d68-oa-3-Q.svg",
+                "eae782d11c26451c90f08c5b88a70d68-oa-O.svg",
+                "tmpvrm_lh71.png"
+            ],
             "name": "Anorganische Chemie",
             "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welcher Form kommen die Erdalkalimetalle in der Natur vor?<div>{{c1::Sie kommen aufgrund ihrer hohen Reaktivität nur in gebundener Form in der Natur vor.}}<br></div><div><br></div><div>Be:<br>{{c2:: Beryll: Be3Al2[Si6O18]<br> Chrysoberyll: Al2[BeO4]}}<br></div><div><br>Mg:<br>{{c3:: Meerwasser: MgCl, MgCO4, MgBr2<br> Blattgrün: Chlorophyll<br> Carbonate:<br>o Magnesit: MgCO3<br>o Dolomit: MgCO3*CaCO3<br> Kalisalze:<br>o Kieserit: MgSO4*H2O<br>o Bittersalz: MgSO4*7H2O<br>o Kainit: KCl*MgSO4*3H2O<br>o Bischofit: MgCl2*6H2O<br> Silicate<br>o Olivin: (Mg,Fe)2[SiO4]<br>o Talk: [Mg3(OH)2][Si4O10]}}<br></div><div><br>Ca:</div><div>{{c4::<div> Kalk, Marmor, Kreide: CaCO3<br> Gips: CaSO4*2H2O<br> Anhydrit: CaSO4<br> Apatit: Ca5(PO4)3*(OH,F,Cl)<br> Flußspat: CaF2<br> Calciumhydroxid: Ca(OH)2</div><div></div>}}<br></div><div><br></div><div>Sr<br>{{c5:: Strontianit: SrCO3<br> Cölestin: SrSO4}}<br></div><div><br></div><div>Ba:<br>{{c6:: Witherit: BaCO3<br> Schwerspat: BaSO4}}<br></div><div><br>Ra:<br>{{c7::sehr selten (zerfällt radioaktiv)}}<br></div>",
+                        ""
+                    ],
+                    "guid": "LfApzB^9_:",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie können die Elemente in reiner (metallischer) Form dargestellt werden?<div><br><div>Elektrolytisches Verfahren:</div><div>{{c1::<div>1. Dolomitbrennen<br>2. \\(MgO + CaO + MgCl_2 + H_2O ↔ CaCl_2 + 2Mg(OH)_2 Mg(OH)_2 ↔ MgO + H_2O (durch ΔT)\\)<br>3. \\(MgO + C + Cl_2 ↔ MgCl_2 + CO\\)<br>4. \\(MgCl_2 ↔ Mg+Cl_2\\)<br>Senkung des Schmelzpunktes durch Zugabe von Alkalifluoriden auf 650-720°C<br>Rheinheitsgrad 99,8%<br>Zur Herstellung von 1kg Mg sind 18kWh nötig</div><div></div>}}<br></div><div><br></div><div>Carbothermisches Verfahren:</div><div>{{c2::<div>direkte Reduktion des MgO mit C im elektrischen Ofen (T = 2000°C)<br>\\(MgO + C \\rightarrow Mg + CO\\)<br>Sdp. Mg = 1107°C<br> Mg entweicht gasförmig<br> extrem schnelle Abkühlung und Kondensation in H2-Atmosphäre</div><div></div>}}<br></div><div><br></div><div>Silicothermisches Verfahren:<br>{{c3::direkte Reuktion von gebranntem Dolomit mit Si im Ofen (T = 1200-1400°C)<br>\\(2 MgO + 2 CaO + Si \\rightarrow&nbsp;Ca_2SiO_4 + Mg\\)<br>Sdp. Mg = 1107°C<br> Mg mit einem Reinheitsgrad von 98-99% wird abdestilliert und in luftgekühlten Vorlagen verdichtet}}<br></div></div>",
+                        ""
+                    ],
+                    "guid": "tFdw+KO=T<",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erklären Sie die Unterschiede in den Gruppeneigenschaften zwischen Be und Mg sowie Ca, Sr und Ba.<div>Allgemein:</div><div>{{c1::</div><div>- wegen erhöhter Kernladungszahl größere Elektronegativität und kleinere Atomradien als in HG I<br>- ähnliches chemisches Verhalten von Calcium, Strontium und Barium<br>- große Sprünge im chemischen Verhalten von Beryllium zu Magnesium und zu Ca, Sr}}<br></div><div><br>Be:&nbsp;</div><div>{{c2::</div><div>- hohe Ionisierungsenergie und kleiner Atomradius \\(\\rightarrow\\) vorwiegend kovalente Verbindungen}}</div><div><br></div><div>Mg:&nbsp;</div><div>{{c3::<div>- bildet sowohl kovalente als auch ionische Verbindungen \\(\\rightarrow\\)&nbsp;steht zwischen Be und Ca, Sr und Ba</div><div></div>}}<br></div><div><br></div><div>Ca,Sr,Ba:</div><div>{{c4::</div><div>- bilden vorwiegend ionische Festkörper; enge Verwandtschaft \\(\\rightarrow\\)&nbsp;Eigenschaften ändern sich systematisch mit}}</div>",
+                        ""
+                    ],
+                    "guid": "x%y)zJ6xj>",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Schrägbeziehungen zu anderen Hauptgruppenelementen gibt es in der Erdalkalimetallgruppe?<div>{{c1::</div><div>Li/Mg<br>Be/Al</div><div>}}<br></div>",
+                        ""
+                    ],
+                    "guid": "MV{oNTb_TF",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bb65a879314a4b3b83727c46f79ef8d5-oa-1",
+                        "",
+                        "<img src=\"tmpvrm_lh71.png\" />",
+                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-1-A.svg\" />",
+                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-O.svg\" />"
+                    ],
+                    "guid": "mv{hYnO_s;",
+                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bb65a879314a4b3b83727c46f79ef8d5-oa-2",
+                        "",
+                        "<img src=\"tmpvrm_lh71.png\" />",
+                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-2-A.svg\" />",
+                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-O.svg\" />"
+                    ],
+                    "guid": "tdM3Blrvdj",
+                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bb65a879314a4b3b83727c46f79ef8d5-oa-3",
+                        "",
+                        "<img src=\"tmpvrm_lh71.png\" />",
+                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-3-A.svg\" />",
+                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-O.svg\" />"
+                    ],
+                    "guid": "PmSh(<b_8p",
+                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "eae782d11c26451c90f08c5b88a70d68-oa-1",
+                        "",
+                        "<img src=\"tmpvrm_lh71.png\" />",
+                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-1-A.svg\" />",
+                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-O.svg\" />"
+                    ],
+                    "guid": "er_$hZOx|C",
+                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "eae782d11c26451c90f08c5b88a70d68-oa-2",
+                        "",
+                        "<img src=\"tmpvrm_lh71.png\" />",
+                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-2-A.svg\" />",
+                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-O.svg\" />"
+                    ],
+                    "guid": "mHK!dgdl>b",
+                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "eae782d11c26451c90f08c5b88a70d68-oa-3",
+                        "",
+                        "<img src=\"tmpvrm_lh71.png\" />",
+                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-3-A.svg\" />",
+                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-O.svg\" />"
+                    ],
+                    "guid": "IF:L7L>+m,",
+                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "65a40801f7444e4f928a0c30a4ec9aa5-oa-1",
+                        "",
+                        "<img src=\"tmpvrm_lh71.png\" />",
+                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-1-A.svg\" />",
+                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-O.svg\" />"
+                    ],
+                    "guid": "ky,?~I2kB_",
+                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "65a40801f7444e4f928a0c30a4ec9aa5-oa-2",
+                        "",
+                        "<img src=\"tmpvrm_lh71.png\" />",
+                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-2-A.svg\" />",
+                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-O.svg\" />"
+                    ],
+                    "guid": "r,Q5{0v90#",
+                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "65a40801f7444e4f928a0c30a4ec9aa5-oa-3",
+                        "",
+                        "<img src=\"tmpvrm_lh71.png\" />",
+                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-3-A.svg\" />",
+                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-O.svg\" />"
+                    ],
+                    "guid": "c1`Gb?creF",
+                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Be und Mg neigen zur Bildung kovalenter Verbindungen. Worin besteht der Unterschied zwischen diesen Verbindungen?<div>{{c1::\\(\\Be^{2+}\\) hat eine extrem hohe Ladungsdichte von \\(\\1100C*mm^{-3}\\) und kann alle Anionen polarisieren. Dies führt zu einer Überlappung der Elektronenhüllen z.B. \\(\\Be(H_2O)_4^{2+}\\) wo das Wasser kovalent an das Berylliumion gebunden ist. KZ 4 wegen geringer Größe des Ions üblich.::\\(\\Be^{2+}\\)::}}</div><div><br>{{c2::Magnesium hat eine geringere Ladungsdichte von \\(\\120C*mm^{-3}\\), so dass sich das Mg-Ion zwischen Kohlenstoff- und Halogenatomen schieben kann. Da es größer ist bevorzugt es KZ 6.::Mg::}}<br></div>",
+                        ""
+                    ],
+                    "guid": "AY6+0/XcP0",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter einer Grignard-Verbindung und zu welchem Zweck wird diese in der chemischen Synthese organischer Verbindungen eingesetzt.<div>{{c1::Als Grignard-Verbindung bezeichnet man das Produkt der Reaktion eines Alkyhalogenids mit Magnesium.<br>R--X + Mg \\(\\rightarrow\\) R--Mg—X<br>Das C-Atom an dem das Halogenatom vorher gesessen hat und vorher eine positive Partialladung hatte wird durch die Reaktion mit Mg “umgepolt“, herhält also eine negative Partialladung.<br>Dadurch wird ein nukleophieler Angriff des besagten C-Atoms an ungesättigte C, O und CN-Verbindungen möglich.}}<br></div>",
+                        ""
+                    ],
+                    "guid": "MKxN<HrNzc",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Bedeutung haben Ca-Verbindungen als Bindebaustoffe? Erklären Sie den Prozess der Herstellung sowie die Reaktionen, die zur Namengebung dieser Stoffe beigetragen haben und deren Funktion sichern.<div>Gips:<br>{{c1::\\(\\CaSO_4*2H_2O\\) wird bergmännisch abgebaut<br>Gipsbrennen: \\(\\CaSO_4*2H_2O&nbsp;\\rightarrow CaSO_4*½H_2O\\) (Hartformgips)<br>\\(\\CaSO_4*½H_2O \\rightarrow&nbsp;CaSO_4\\) (Anhydrid I,II oder III)<br>Bei der Verwendung wird der Gips mit Wasser angerührt worauf es nach einiger Zeit zum Abbinden kommt: \\(\\CaSO_4 + 2H_2O \\rightarrow&nbsp;CaSO_4*2H_2O\\)</div><div>Dabei verfilzen die nadelförmigen Kristalle.<br>Dadurch bekommt der Gips wieder eine hohe Festigkeit wodurch er als Innen-, Außenputz und für Estriche nutzbar wird.}}<br>Kalk:<br>{{c2::\\(\\CaCO_3\\) wird bergmännisch abgebaut<br>Kalk brennen: \\(\\CaCO_3\\)&nbsp;(Kalkstein) \\(\\rightarrow\\)&nbsp;CaO (gebrannter Kalk) + \\(\\CO_2\\)↑<br>Kalk löschen: \\(\\CaO + 2H_2O&nbsp;\\rightarrow Ca(OH)_2\\) (Löschkalk oder Luftmörtel)<br>Verwendung: Löschkalk + Sand + H2O \\(\\rightarrow\\)&nbsp;Kalkmörtel<br>Abbinden: \\(\\Ca(OH)_2 + CO_2\\) (aus der Luft) \\(\\rightarrow&nbsp;CaCO_3 + H_2O\\)}}<br></div>",
+                        ""
+                    ],
+                    "guid": "dM1m0q+v|-",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche physiologischen Eigenschaften besitzen die Erdalkalimetalle und in welchen Biomineralien kommen sie vor?<div>Be:&nbsp;</div><div>{{c1::extrem giftig, stark krebserzeugend}}<br>Mg:</div><div>{{c2::Salze spielen vor allem bei Pflanzen im Stoffwechsel eine bedeutende Rolle (Chlorophyll)}}<br>Ca:&nbsp;</div><div>{{c3::Verbindungen in Knochen (Calciumphosphat), Zähnen, Gehäusen (Calciumcarbonat), sowie verschiedenen Pflanzen (Calciumoxalat)}}<br>Sr:&nbsp;</div><div>{{c4::Strontiumbromid ist ein in der Medizin verwendetes Beruhigungsmittel}}<br>Ba:</div><div>{{c5::giftig}}<br></div>",
+                        ""
+                    ],
+                    "guid": "sVb{Xj.]o?",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie verhält sich der basische Charakter der Oxide und Hydroxyde innerhalb der Hauptgruppe mit zunehmender Ordnungszahl?<div>{{c1::Der basische Charakter nimmt von Be zu Ba zu.<br>1. Weil die Elektronegativität geringer wird \\(\\rightarrow\\) Zunahme des ionischen Charakters der Metall-Sauerstoff-Bindung<br>2. Wegen der besseren Polarisierbarkeit und damit Stabilisierbarkeit der größeren Kationen}}<br></div>",
+                        ""
+                    ],
+                    "guid": "j?IFq{4^oR",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erklären Sie die Zunahme der thermischen Stabilität z.B. der Cabonate vom Be zum Ba.<div>{{c1::<div>Mit steigendem basischem Charakter steigt auch die thermische Stabilität mit schwachen Säuren wie z.B. dem Carbonat</div>}}</div>",
+                        ""
+                    ],
+                    "guid": "uF$0Vtm]SO",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nach welchen 3 Verfahren kann metallisches Magnesium hergestellt werden? Erläutern sie den Verfahrensablauf anhand der entsprechenden Reaktionsgleichungen und Reaktionsbedingungen.<div>Elektrolytisches Verfahren:<br>{{c1::1. Dolomitbrennen<br>2. MgO + CaO + \\(MgCl_2 + H_2O\\) ↔ \\(CaCl_2 + 2Mg(OH)_2 Mg(OH)_2\\) ↔ MgO + \\(H_2O\\) (durch ΔT)<br>3. MgO + C + \\(Cl_2\\) ↔ \\(MgCl_2\\) + CO</div><div>4. \\(MgCl_2\\) ↔ Mg+\\(Cl_2\\)</div><div>Senkung des Schmelzpunktes durch Zugabe von Alkalifluoriden auf 650-720°C<br>Rheinheitsgrad 99,8%<br>Zur Herstellung von 1kg Mg sind 18kWh nötig}}</div><div><br>Carbothermisches Verfahren:<br>{{c2::direkte Reduktion des MgO mit C im elektrischen Ofen (T = 2000°C)<br>MgO + C \\(\\rightarrow\\) Mg + CO<br>Sdp. Mg = 1107°C<br>- Mg entweicht gasförmig<br>- extrem schnelle Abkühlung und Kondensation in \\(H_2\\)-Atmosphäre}}</div><div><br>Silicothermisches Verfahren:<br>{{c3::direkte Reuktion von gebranntem Dolomit mit Si im Ofen (T = 1200-1400°C)<br>2MgO + 2CaO + Si \\(\\rightarrow\\) \\(Ca_2SiO_4\\) + Mg</div><div>Sdp. Mg = 1107°C<br>- Mg mit einem Reinheitsgrad von 98-99% wird abdestilliert und in luftgekühlten Vorlagen verdichtet}}<br></div>",
+                        ""
+                    ],
+                    "guid": "K/rfe%]@p.",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG2",
+                        "AC::HG2"
+                    ]
+                },
                 {
                     "__type__": "Note",
                     "fields": [
@@ -891,10 +1255,8 @@
                 "order": 0,
                 "perDay": 50
             },
-            "newGatherPriority": 0,
             "newMix": 0,
             "newPerDayMinimum": 0,
-            "newSortOrder": 0,
             "replayq": true,
             "rev": {
                 "bury": false,
@@ -968,6 +1330,129 @@
                 }
             ],
             "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced-17ebb",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
         },
         {
             "__type__": "NoteModel",
