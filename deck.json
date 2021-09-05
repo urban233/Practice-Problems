@@ -12,7 +12,99 @@
             "extendRev": 0,
             "media_files": [],
             "name": "Anorganische Chemie",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welcher Form kommen die Alkalimetalle in der Natur vor?<div>{{c1::Aufgrund ihrer hohen Reaktivität (erste Ionisierungsenergie recht gering) kommen\nAlkalimetalle nur gebunden in der Natur in Form von einwertigen Kationen vor.::Allgemeines Vorkommen}}<br></div><div><br></div><div>Li:&nbsp;</div><div>{{c2::<div> “Begleiter“ des Kaliums und Natriums (ist oft in deren Vorkommen in geringen\nKonzentrationen mit enthalten)&nbsp;</div><div> Petalit \\(LiAl[Si_2O_5]_2\\)&nbsp;</div><div> Spodumen \\(LiAl[SiO_3]_2\\)&nbsp;</div>}}<br></div><div>Na:&nbsp;</div><div>{{c3::<div> Natronfeldspat \\(NaAlSi_3O_8\\)&nbsp;</div><div> Chilesalpeter (\\NaNO_3\\)&nbsp;</div><div> \\(NaCl\\) Steinsalz in Lagerstätten\ngelöst im Meerwasser&nbsp;</div><div> Kryolith \\(Na_3AlF_6\\)&nbsp;</div><div> Soda \\(Na_2CO_3\\)&nbsp;</div>}}<br></div><div>K:&nbsp;</div><div>{{c4::<div> Sylvin \\(KCl\\)&nbsp;</div><div> Kalifeldspat \\(K[AlSi_3O_8]\\)&nbsp;</div><div> Carnalit \\(KCl*MgCl_2*6H_2O\\)</div>}}<br></div>",
+                        ""
+                    ],
+                    "guid": "t#1oTIMe%q",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG1",
+                        "AnorganischeChemie::HG1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie können die Elemente der ersten Hauptgruppe in reiner (metallischer) Form dargestellt werden?<div>{{c1::Durch Schmelzflusselektrolyse der Salzschmelzen}}</div>",
+                        ""
+                    ],
+                    "guid": "kxz2:b},pd",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG1",
+                        "AnorganischeChemie::HG1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erklären Sie die Leitfähigkeit und Farbe einer Lösung von Natrium in flüssigem\nAmmoniak.<div>{{c1::<div>Das Na wird also in Na+\nund ezerlegt welche dann Komplexe mit den\nAmmoniakmolekülen bilden.\nDurch die “freien“ Elektronen ist die hohe Leitfähigkeit gegeben. Die Elektronen sind\ndurch ihre Interaktion mit Licht ebenfalls für die Blaufärbung der Lösung verantwortlich.</div>}}<br></div>",
+                        ""
+                    ],
+                    "guid": "j=|+N5ap@*",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG1",
+                        "AnorganischeChemie::HG1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Geben Sie die Ursache für die unterschiedlichen Gitterenergien der Alkalihalogenide\nan.<div>{{c1::Alle Alkalihalogenide weisen einen kubisch-primitiven Gittertyp (NaCl-Typ;\nKoordinationszahl = 6) auf.\nDer Unterschied in den Gitterenergien kommt durch die verschiedenen\nLadungs-/Radienverhältnise von Anionen und Kationen zustande.\nDie Ladung der Ionen ist immer gleich. Der Radius der Ionen steigt jedoch bei den\nAlkalimetallen vom Li zum Cäsium und bei den Halogenen vom Fluor zum Iod.\nGleichzeitig nimmt die Gitterenergie ab.\nDadurch weißt das Lithiumfluorid die höchste Gitterenergie auf und das Cäsiumiodid die\ngeringste.}}<br></div>",
+                        ""
+                    ],
+                    "guid": "c31!k*{8&1",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG1",
+                        "AnorganischeChemie::HG1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum kann NaCl nicht durch Umkristallisation gereinigt werden?<div>{{c1::Die Temperaturabhängigkeit des Lösungsverhaltens von NaCl ist zu gering.\nEs würde also zu viel NaCl in der Lösung verbleiben.}}<br></div>",
+                        ""
+                    ],
+                    "guid": "yKRppJ5XVV",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG1",
+                        "AnorganischeChemie::HG1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Alkalimetallsalze sind in Wasser schlecht löslich?<div>{{c1::\\(LiF\\), \\(NaF\\), \\(Li_2CO_3\\), \\(Li_3[PO_4]\\)}}</div>",
+                        ""
+                    ],
+                    "guid": "fjR?~oSj,<",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG1",
+                        "AnorganischeChemie::HG1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erklären Sie die chemische Verwandschaft (Schrägbeziehungen) zwischen Lithium und\nMagnesium.<div>{{c1::Zustandekommen durch ähnliche Atomradien und ähnliche Ladungsdichten.}}&nbsp;</div><div>Beispiele:&nbsp;</div><div>{{c2::<div> Bildung normaler Oxide bei Verbrennung (\\(Li_2O\\), \\(MgO\\))&nbsp;</div><div> thermische Instabilität der Carbonate und Nitrate&nbsp;</div><div> die Bildung der Carbide und Nitride aus den Elementen&nbsp;</div><div> Schwerlöslichkeit der Carbonate und Phosphate&nbsp;</div><div> Hygroskopizität&nbsp;</div><div> starke Solvatation der Kationen&nbsp;</div><div> große Löslichkeit einiger Salze (Bsp. Chloride) in\norganischen Lösungsmitteln\n Ähnliche Basizität&nbsp;</div><div> keine Peroxidbildung beim Verbrennen</div>}}<br></div>",
+                        ""
+                    ],
+                    "guid": "dEs!V:yCvi",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "_PP::AC::HG1",
+                        "AnorganischeChemie::HG1"
+                    ]
+                }
+            ]
         },
         {
             "__type__": "Deck",
@@ -769,54 +861,6 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "ad65e290-59da-11eb-ad13-448a5b8ef3a7",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Standard",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 20
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
             "crowdanki_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
             "dyn": false,
             "interdayLearningMix": 0,
@@ -871,6 +915,60 @@
     "media_files": [],
     "name": "Practice-Problems",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Rückseite Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Lückentext",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "AnorganischeChemie::HG0"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Lückentext",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
