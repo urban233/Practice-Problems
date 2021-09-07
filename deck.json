@@ -487,6 +487,7 @@
                 "Untitled-5dd06f815b58e5da8076bb5b2bd52373102f8911.png",
                 "Untitled-5f0725dbde0dd9a5e0c5820460f6024d621b846f.png",
                 "Untitled-66e58b75dc6969c0e75e652ac06d71efc9f5e0a4.png",
+                "Untitled-884be4337d01e80b9d9cc5a46ae63b11fb7cbfe7.png",
                 "Untitled-acb68f9787049c6592d2c5b92c32e5a470d3cd1a.png",
                 "Untitled-ada80c8688530e8af1844182a178002120d79f5f.png",
                 "Untitled-af3199a8d7e06062db79d3e228ac6df547d0cbff.png",
@@ -498,7 +499,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div>Ein Proteinsegment, das 40 Aminosäurereste umfasst, faltet sich in eine doppelsträngige, antiparallele $\\beta$-Faltblatt-Struktur mit einer vier Reste umfassenden Haarnadelschleife.</div><div><br></div>\n<div>Wie lang ist dieses Strukturmotiv höchstens?</div>\n<div>(Tipp: Die Schleife soll keinen Extraplatz beanspruchen; Steighöhe β-Faltblatt: 0,35 nm/Rest)</div>",
+                        "<div><b>Aufgabe 1.1</b></div><div>Ein Proteinsegment, das 40 Aminosäurereste umfasst, faltet sich in eine doppelsträngige, antiparallele $\\beta$-Faltblatt-Struktur mit einer vier Reste umfassenden Haarnadelschleife.</div><div><br></div>\n<div>Wie lang ist dieses Strukturmotiv höchstens?</div>\n<div>(Tipp: Die Schleife soll keinen Extraplatz beanspruchen; Steighöhe β-Faltblatt: 0,35 nm/Rest)</div>",
                         "<img src=\"Untitled-ada80c8688530e8af1844182a178002120d79f5f.png\">"
                     ],
                     "guid": "v2Q*&V6Bk7",
@@ -510,7 +511,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div>Tropomyosin, ein 70-kd-Muskelprotein, ist eine doppelsträngige, superspiralisierte α-Helix.</div>\n<div><br></div><div>Wie lang ist das Molekül?</div>\n<div>(Tipp: Das mittlere Molekulargewicht einer Aminosäure beträgt 110 D).</div>",
+                        "<div><b>Aufgabe 1.2</b><br></div><div>Tropomyosin, ein 70-kd-Muskelprotein, ist eine doppelsträngige, superspiralisierte α-Helix.</div>\n<div><br></div><div>Wie lang ist das Molekül?</div>\n<div>(Tipp: Das mittlere Molekulargewicht einer Aminosäure beträgt 110 D).</div>",
                         "<img src=\"Untitled-d4bb7ab6d6e37432764477d4df23aba542c67e22.png\">"
                     ],
                     "guid": "kG,5h#N%KG",
@@ -522,7 +523,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div>Poly-L-Leucin ist in einem organischen Lösungsmittel wie Dioxan eine α-Helix, Poly-L-Isoleucin dagegen nicht.</div>\n<div>Warum unterscheiden sich diese Aminosäuren mit der gleichen Anzahl und Art von Atomen in ihrem Bestreben eine α-Helix auszubilden?</div>",
+                        "<div><b>Aufgabe 1.3</b><br></div><div>Poly-L-Leucin ist in einem organischen Lösungsmittel wie Dioxan eine α-Helix, Poly-L-Isoleucin dagegen nicht.</div>\n<div>Warum unterscheiden sich diese Aminosäuren mit der gleichen Anzahl und Art von Atomen in ihrem Bestreben eine α-Helix auszubilden?</div>",
                         "Da Isoleucin bei seiner Struktur eine Methylgruppe, nahe der Carboxylgruppe besitzt, ist es sterisch gesehen nicht möglich eine \\(\\alpha\\)-Helix auszubilden."
                     ],
                     "guid": "s-ht5hZ`HT",
@@ -534,7 +535,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Beschreiben Sie die Kräfte, die Proteine stabilisieren.",
+                        "<div><b>Aufgabe 1.4</b><br></div>Beschreiben Sie die Kräfte, die Proteine stabilisieren.",
                         "<ul>\n<li>Ionenbindungen</li>\n<li>eWW</li>\n<li>WBB</li>\n<li>VdW</li>\n<li>hydrophobe WW</li>\n<li>DDW</li>\n</ul>\n<div><img src=\"Untitled-5f0725dbde0dd9a5e0c5820460f6024d621b846f.png\"><br></div>"
                     ],
                     "guid": "EluG}Vcg4D",
@@ -546,7 +547,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div>Proteine dimerisieren häufig über coiled coil Sequenzen. Hier benötigt eine Helix nur 3,5\nAminosäuren pro turn. Tropomyosin, ein 70-kd-Muskelprotein, ist so eine doppelsträngige,\nsuperspiralisierte α-Helix.</div>\n<div><br></div><div>Wie lang ist das Molekül?</div>\n<div>(Tipp: Das mittlere Molekulargewicht einer Aminosäure beträgt 110 D).</div>",
+                        "<div><b>Aufgabe 1.5</b><br></div><div>Proteine dimerisieren häufig über coiled coil Sequenzen. Hier benötigt eine Helix nur 3,5\nAminosäuren pro turn. Tropomyosin, ein 70-kd-Muskelprotein, ist so eine doppelsträngige,\nsuperspiralisierte α-Helix.</div>\n<div><br></div><div>Wie lang ist das Molekül?</div>\n<div>(Tipp: Das mittlere Molekulargewicht einer Aminosäure beträgt 110 D).</div>",
                         "<div>Molekülmasse: 70 kD → 70000 D</div>\n<div>Superspiralisiert → 2 \\(\\alpha\\)-Helices → \\(\\frac{700000}{2}\\) = 35000</div>\n<div>Anzahl an AS berechnen: \\(\\frac{35000\\space D}{110\\space D}\\) → 318 AS</div>\n<div>Anzahl an Windungen berechnen: \\(\\frac{318}{3,5}\\) → 90,9 Windungen</div>\n<div>Länge des Peptids:  \\(90,9 \\cdot 0,54\\space \\text{nm} =49\\space \\text{nm}\\)</div>"
                     ],
                     "guid": "PfbDxm;<Q3",
@@ -558,7 +559,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Welche Gruppen in einem Protein können bei pH 7 mit Arginin Wasserstoffbrücken oder elektrostatische Bindungen ausbilden?",
+                        "<div><b>Aufgabe 1.6</b><br></div>Welche Gruppen in einem Protein können bei pH 7 mit Arginin Wasserstoffbrücken oder elektrostatische Bindungen ausbilden?",
                         "<div>Das Arginin liegt bei einem pH von 7, positiv vor. Somit kann es zu allen negativ geladnen Gruppen eine eWW ausbilden. Diese sind Glutamat, Aspartat und das Carboxylende.</div>\n<div><br></div><div>Da sich WBB meistens zwischen Sauerstoff und Stickstoff ausbilden, können folgende Gruppen, diese ausbilden:  Threonin, Serin, Tyrosin, Glutamat und Aspartat, sowie Glutamin und Asparagin. Zusammengefasst also alle Aminosäuren, die eine Hydroxygruppe und eine Säure- bzw. Amidfunktion in ihrem Rest haben.</div>"
                     ],
                     "guid": "zSHLi9jL7F",
@@ -570,7 +571,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div>a) Durch welche Eigenschaften unterscheiden sich Enzyme von anderen Katalysatoren?</div>\n<div>b) Welche Faktoren beeinflussen die Substratspezifität eines Enzyms?</div>\n<div>c) Warum sind für einige enzymatische Reaktionen Cofaktoren notwendig?</div>\n<div>d) Nennen Sie einige Mechanismen zur Regulation der Enzymaktivität!</div>",
+                        "<div><b>Aufgabe 2.1</b><br></div><div>a) Durch welche Eigenschaften unterscheiden sich Enzyme von anderen Katalysatoren?</div>\n<div>b) Welche Faktoren beeinflussen die Substratspezifität eines Enzyms?</div>\n<div>c) Warum sind für einige enzymatische Reaktionen Cofaktoren notwendig?</div>\n<div>d) Nennen Sie einige Mechanismen zur Regulation der Enzymaktivität!</div>",
                         "<img src=\"Untitled-acb68f9787049c6592d2c5b92c32e5a470d3cd1a.png\">"
                     ],
                     "guid": "q}XS-#@-bG",
@@ -582,7 +583,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<img src=\"Untitled-3851398f0a0dd170b34121f744cef55d77cf8c4d.png\">",
+                        "<div><b>Aufgabe 2.2</b><br></div><img src=\"Untitled-3851398f0a0dd170b34121f744cef55d77cf8c4d.png\">",
                         "<div>a) Isomerase</div>\n<div>b) Lyase ⇒ Vermehrung der DBs</div>\n<div>c) Oxioreduktase</div>"
                     ],
                     "guid": "AbXmE8zpH3",
@@ -594,7 +595,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<img src=\"Untitled-5dd06f815b58e5da8076bb5b2bd52373102f8911.png\">",
+                        "<div><b>Aufgabe 2.3</b><br></div><img src=\"Untitled-5dd06f815b58e5da8076bb5b2bd52373102f8911.png\">",
                         "<div>A: Nein, weil das aktive Zentrum innerhalb des Proteins, vorliegt, dennoch ist es eine kurze Abfolge in der Primärstruktur</div>\n<div>B: Ja, das stimmt. GAP-DH als Beispiel</div>\n<div>C: Ja sie verschieben die Aktiverungsenergiebarriere, aber nicht den Gleichgewichtspunkt. Sondern sie beschleunigen das Einstellen des GGs</div>\n<div>D: Nein \\(K_m\\) ist die Subtratkonzentration bei \\(\\frac{v_{max}}{2}\\)</div>\n<div>E: Ja das stimmt, die Bindung eines allosterischen Faktors findet nicht im aktiven Zentrum sondern an eine dafür vorgesehende Bindestelle statt.</div>\n<div>F: Falsch, die Ionenaustauschchromatographie trennt nach der Ladung der Proteine</div>"
                     ],
                     "guid": "I~p]zel4n|",
@@ -606,7 +607,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wenn man hexa-GlcNAc, das zwischen den Zuckerresten D und E ein glykosidisches \\( ^{18}\\)O-Atom\nenthält, durch Lysozym hydrolysiert, in welchem Produkt und wo dort wird man dann das markierte\nSauerstoffatom wiederfinden?",
+                        "<div><b>Aufgabe 2.4</b><br></div>Wenn man hexa-GlcNAc, das zwischen den Zuckerresten D und E ein glykosidisches \\( ^{18}\\)O-Atom\nenthält, durch Lysozym hydrolysiert, in welchem Produkt und wo dort wird man dann das markierte\nSauerstoffatom wiederfinden?",
                         "<img src=\"Untitled-f9c7d017aa1699da8d5494509a91aaec9b2104c7.png\">"
                     ],
                     "guid": "Gtg#.ec&Fb",
@@ -618,7 +619,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<img src=\"Untitled-32a21480092c16dfa29d493bfeb13990bbd3ef8c.png\">",
+                        "<div><b>Aufgabe 2.5</b><br></div><img src=\"Untitled-32a21480092c16dfa29d493bfeb13990bbd3ef8c.png\">",
                         "<img src=\"Untitled-0d987e1d4a53097aacb024e184a347bd0c4eff17.png\">"
                     ],
                     "guid": "Q[KpR3aKh[",
@@ -630,7 +631,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<img src=\"Untitled-66e58b75dc6969c0e75e652ac06d71efc9f5e0a4.png\">",
+                        "<div><b>Aufgabe 2.6</b><br></div><img src=\"Untitled-66e58b75dc6969c0e75e652ac06d71efc9f5e0a4.png\">",
                         "<img src=\"Untitled-3247dd89af263ecd7a44020e7905eb9913777b7c.png\">"
                     ],
                     "guid": "cd~w(UY49U",
@@ -642,13 +643,25 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Welches der folgenden Oligosaccharide wird am Lysozym am schnellsten, welches am langsamsten hydrolysieren (G = N-Acetylglucosamin, M = NAcetylmuraminsäure)?<div><div>a) M-M-M-M-M-M</div>\n<div>b) G-M-G-M-G-M</div>\n<div>c) M-G-M-G-M-G</div></div>",
+                        "<div><b>Aufgabe 2.7</b><br></div>Welches der folgenden Oligosaccharide wird am Lysozym am schnellsten, welches am langsamsten hydrolysieren (G = N-Acetylglucosamin, M = NAcetylmuraminsäure)?<div><div>a) M-M-M-M-M-M</div>\n<div>b) G-M-G-M-G-M</div>\n<div>c) M-G-M-G-M-G</div></div>",
                         "<img src=\"Untitled-af3199a8d7e06062db79d3e228ac6df547d0cbff.png\">"
                     ],
                     "guid": "MNHFU}A/X.",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
                     "tags": [
                         "_PP::Biochemie::Enzyme"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><b>Aufgabe 3.1</b><br></div>Welche Auswirkungen auf die Geschwindigkeit der Glykolyse in Leberzellen haben die folgenden Mutationen:<div>a) Verlust der allosterischen Bindungsstelle für ATP in der Phosphofructokinase<br></div><div>b) Verlust der Bindungsstelle für Citrat in der Phosphofructokinase<br></div><div>c) Verlust der Phosphatasedomäne des bifunktionellen Enzyms, das den Fructose-2,6-bisphosphatspiegel kontrolliert<br></div><div>d) Verlust der Bindungsstelle für Fructose-1,6- bisphosphat in der Pyruvatkinase.<br></div>",
+                        "<img src=\"Untitled-884be4337d01e80b9d9cc5a46ae63b11fb7cbfe7.png\">"
+                    ],
+                    "guid": "4;ZQ`E@@)",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
                     ]
                 }
             ]
@@ -665,17 +678,37 @@
             "media_files": [
                 "Screenshot 2021-07-28 170636.jpg",
                 "Untitled-00e8e5e60ffd0a727358507dcaee636462b8b2cf.png",
+                "Untitled-0b763c62489d3546460e663ae85a10605ca94578.png",
+                "Untitled-0bb77e2248173fde7467151fa142aa39599a706b.png",
                 "Untitled-0f9fd1bb83254f52a52e4ae734f859b89c2db40a.png",
                 "Untitled-107cba877ef28bc86ed2db78568099e7e81d352a.png",
+                "Untitled-12a0834dc483681c3e619373367cd69f7dbd09cd.png",
                 "Untitled-14049e57f3fb442228d870459d120c1efd81d199.png",
+                "Untitled-16cd1fae95d661549238511735d1e9b9580c83bf.png",
+                "Untitled-17ac3896e8001c950c8dc0ce2450ea835a4fbcfb.png",
                 "Untitled-3700f733a2a0111a8881f9f11b25e1f6a99f649c.png",
                 "Untitled-3886137f819be49c9bd836e3a84dce6f91824803.png",
+                "Untitled-3bfa412ce6efe71375aa4300acc741088f29a676.png",
+                "Untitled-5e6bbe7072633bdb2eea6efcadbd1b13dce11e6c.png",
+                "Untitled-6379083cfd29ed5eaa4421805cb17e8d9bf86083.png",
                 "Untitled-6656c93e5fd7a27ad781faf35494359247312a9b.png",
+                "Untitled-87dc0e0c9fe13781037e7fea066f26a702e054af.png",
+                "Untitled-8a694498bc26c17b4662311a5d519d915d4b3821.png",
                 "Untitled-94020deef8bed734a6a9a97df2ed1edb88df1dfb.png",
+                "Untitled-94390bf069f67af2e5332ca2f8baf5232dd07c63.png",
+                "Untitled-a67a4e58ebe2b73ca341b327b4a134215bb24c63.png",
+                "Untitled-be9478e7198f32be9006ab66f404a57076db86b2.png",
                 "Untitled-bed17cc6ef00ad478a4064c13eaf3243441374cf.png",
+                "Untitled-c3ede2940328c482df6c16dac9d0a85a2af1e612.png",
                 "Untitled-c90e96ddd58e54c611d202d2b846086321d9170f.png",
                 "Untitled-caf10487c195dfecf0cf0f0f266159a568cc789e.png",
+                "Untitled-cea5449fde302d2b31f9ccdc0b8fb5da775f2546.png",
                 "Untitled-cf6742445c1eb90123d0389aa63a3427014a43d7.png",
+                "Untitled-e55e6607e7205326a0f8217e309bbaf3b54bd0af.png",
+                "Untitled-e850b93162a49943d8cf2970137438c0a019ac13.png",
+                "Untitled-f71c25fc07e87858a02d0185d9693f5bda1aaf00.png",
+                "Untitled-faa1908056139ab29b22690191be34bfff12301c.png",
+                "Untitled-fcac8a70edbf83ecf32c4d008d87e9c580377c0d.png",
                 "paste-020cfd3063eab1a87b4027844334d92b05fc6c5c.jpg",
                 "paste-1c5aabde05bdaf8008d2792940abcf658171afcf.jpg",
                 "paste-39024c959e0f8a6e22fefef0cd9c5814eee48b0d.jpg",
@@ -1914,6 +1947,174 @@
                     "tags": [
                         "_PP::Genetik::ZellteilungUndMendel"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><b>Aufgabe 3.2</b><br></div>a) Beschreiben Sie die Reaktionen der Gluconeogenese! Welche Rolle spielt Fructose-2,6-bisphosphat bei der Regulation?<div><br></div><div>b) Was sind die wahrscheinlichen Folgen eines genetischen Defekts, der die Fructose-1,6-\nbisphosphatase der Leber unempfindlicher für die Kontrolle von Fructose-2,6-bisphosphat macht?<br></div>",
+                        "Dabei müssen aber <span style=\"font-weight:600\">nicht </span>die \\(\\Delta G\\)-Werte angegeben werden!<div><img src=\"Untitled-f71c25fc07e87858a02d0185d9693f5bda1aaf00.png\"><br></div><div><img src=\"Untitled-cea5449fde302d2b31f9ccdc0b8fb5da775f2546.png\"><br></div>"
+                    ],
+                    "guid": "lopbO*5{pq",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 3.3</b><div>Amylose ist ein unverzweigtes Glucosepolymer. Wie geeignet ist es als Glucosespeicher verglichen mit Amylopektin und Glykogen?<br></div>",
+                        "<img src=\"Untitled-17ac3896e8001c950c8dc0ce2450ea835a4fbcfb.png\">"
+                    ],
+                    "guid": "jxTt4!MT-A",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 3.4</b><div>Beschreiben Sie den enzymatischen Abbau und die Synthese des Glykogens! Welche Enzyme sind jeweils nötig?<br></div>",
+                        "<img src=\"Untitled-6379083cfd29ed5eaa4421805cb17e8d9bf86083.png\"><div><img src=\"Untitled-faa1908056139ab29b22690191be34bfff12301c.png\"><br></div>"
+                    ],
+                    "guid": "C`*U|o8unc",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 3.5</b><br><div>Die Gluconeogenese findet während intensiver Anstrengungen statt, das scheint widersprüchlich. Warum könnte ein Organismus Glucose synthetisieren und gleichzeitig Glucose zur Energieerzeugung verwenden?<br></div><div><br></div><div>Warum ist es für den Muskel von Vorteil, die während einer starken Anstrengung gebildete Milchsäure in den Blutkreislauf abzugeben?<br></div>",
+                        "Damit Energie im Form von Glucose bereitsteht, kann durch eine anaerobe Situation im Muskel Lactat gebildet werden, welches in der Leber wieder über die Gluconeogenese zu Glucose verstoffwechselt werden kann. Somit ist eine dauerhafte Energieversorgung gewährleistet.<div><img src=\"Untitled-94390bf069f67af2e5332ca2f8baf5232dd07c63.png\"><br></div>"
+                    ],
+                    "guid": "eBF2vasZxX",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><b>Aufgabe 3.6</b><br></div>Eine einzige Peptidkette (debranching enzyme) beherbergt die Transferase und die α-1,6-Glucosidase. Welchen Vorteil könnte so eine Anordnung haben?",
+                        "<img src=\"Untitled-3bfa412ce6efe71375aa4300acc741088f29a676.png\">"
+                    ],
+                    "guid": "C?OGKuOs%V",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 3.7</b><div>Coffein hemmt die cAMP-Phosphodiesterase. Welchen Einfluss hat das auf die Antwort des Stoffwechsels auf Adrenalin?<br></div>",
+                        "<img src=\"Untitled-a67a4e58ebe2b73ca341b327b4a134215bb24c63.png\"><div><img src=\"Untitled-e55e6607e7205326a0f8217e309bbaf3b54bd0af.png\"><br></div>"
+                    ],
+                    "guid": "G.kJ~LwHbe",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 3.8</b><div>Sagen Sie die wichtigsten Auswirkungen jeder der folgenden Mutationen vorher:</div><div>a) Verlust der AMP-Bindungsstelle in der PhosphorylaseMuskel.<br></div><div>b) Mutation von Ser 14 zu Ala 14 in der PhosphorylaseLeber.<br></div><div>c) Überexpression der Phosphorylase-KinaseLeber.<br></div><div>d) Verlust des Gens für den Inhibitor 1 der Protein-Phosphatase 1<br></div><div>e) Verlust des Gens für die glykogenbindende Untereinheit der Protein-Phosphatase 1.<br></div><div>f) Verlust des Gens für Glykogenin.</div>",
+                        "<img src=\"Untitled-87dc0e0c9fe13781037e7fea066f26a702e054af.png\"><div><img src=\"Untitled-16cd1fae95d661549238511735d1e9b9580c83bf.png\"><br></div>"
+                    ],
+                    "guid": "cW->7)1UQB",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 4.1</b><div>Einige Antibiotika wirken als Carrier, sie binden ein Ion auf der einen Seite der Membran, diffundieren durch sie hindurch und setzen das Ion auf der anderen Seite der Membran frei. Die Leitfähigkeit einer Lipiddoppelschichtmembran mit einem Carrier Antibiotikum nahm abrupt ab, als die Temperatur von 40 °C auf 36 °C gesenkt wurde. Mit einem kanalbildenden Antibiotikum dagegen stellte man kaum eine Leitfähigkeitsänderung an der Membran fest. Warum?<br></div>",
+                        "<img src=\"Untitled-0b763c62489d3546460e663ae85a10605ca94578.png\">"
+                    ],
+                    "guid": "eeg_>^[FNN",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Membranen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 4.2</b><div>Erklären Sie, warum Ölsäure (18 Kohlenstoffatome, eine cis-Bindung) einen niedrigeren Schmelzpunkt aufweist als Stearinsäure, welche die gleiche Zahl von Kohlenstoffatomen besitzt, aber gesättigt ist.<br></div>",
+                        "<img src=\"Untitled-12a0834dc483681c3e619373367cd69f7dbd09cd.png\">"
+                    ],
+                    "guid": "FGWR`Q[v)?",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Membranen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 4.3</b><div>Eine bei 37°C wachsende Bakterienkultur wurde auf 25 °C gebracht.<br></div><div>Wie wird sich diese Veränderung auf die Zusammensetzung der Membranphospholipide auswirken? Welche Erklärung gibt es?<br></div>",
+                        "<img src=\"Untitled-5e6bbe7072633bdb2eea6efcadbd1b13dce11e6c.png\">"
+                    ],
+                    "guid": "ANL5ViEgA$",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Membranen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 4.4</b><div><img src=\"Untitled-fcac8a70edbf83ecf32c4d008d87e9c580377c0d.png\"><br></div>",
+                        "<img src=\"Untitled-be9478e7198f32be9006ab66f404a57076db86b2.png\">"
+                    ],
+                    "guid": "Avqvsi1Qs*",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Membranen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 4.5</b><div>Beim Erstellen eines Hydropathiediagramms für ein untersuchtes Protein erhalten Sie einen einzelnen sehr auffälligen hydroproben Peak. Später stellen Sie fest, dass dieses Protein löslich und nicht mit der Membran assoziiert ist.<br></div><div>Erläutern Sie, wie es zu diesem irreführenden Hydropathiediagramm kommen konnte.<br></div>",
+                        "<img src=\"Untitled-e850b93162a49943d8cf2970137438c0a019ac13.png\">"
+                    ],
+                    "guid": "`pz]0i7zt",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Membranen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 4.6</b><div>Beschrieben Sie in Analogie zu dem Reaktionsmechanismus der \\(Ca^{2+}\\)-ATPase detailliert den\nMechanismus der dem Transport durch die \\(Na^+K^+\\)-ATPase zugrunde liegt!<img src=\"Untitled-c3ede2940328c482df6c16dac9d0a85a2af1e612.png\"><br></div>",
+                        "<img src=\"Untitled-0bb77e2248173fde7467151fa142aa39599a706b.png\">"
+                    ],
+                    "guid": "Ku|adHE[S3",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Membranen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 4.7</b><div>Unterscheiden Sie zwischen einfacher &amp; erleichterter Diffusion!<br></div>",
+                        "<img src=\"Untitled-8a694498bc26c17b4662311a5d519d915d4b3821.png\">"
+                    ],
+                    "guid": "reKt9QqIuU",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Membranen"
+                    ]
                 }
             ]
         }
@@ -2190,7 +2391,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "_PP::Genetik::ZellteilungUndMendel"
+                "_PP::Biochemie::Membranen"
             ],
             "tmpls": [
                 {
