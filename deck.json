@@ -263,7 +263,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Be und Mg neigen zur Bildung kovalenter Verbindungen. Worin besteht der Unterschied zwischen diesen Verbindungen?<div>{{c1::\\(\\Be^{2+}\\) hat eine extrem hohe Ladungsdichte von \\(\\1100C*mm^{-3}\\) und kann alle Anionen polarisieren. Dies führt zu einer Überlappung der Elektronenhüllen z.B. \\(\\Be(H_2O)_4^{2+}\\) wo das Wasser kovalent an das Berylliumion gebunden ist. KZ 4 wegen geringer Größe des Ions üblich.::\\(\\Be^{2+}\\)::}}</div><div><br>{{c2::Magnesium hat eine geringere Ladungsdichte von \\(\\120C*mm^{-3}\\), so dass sich das Mg-Ion zwischen Kohlenstoff- und Halogenatomen schieben kann. Da es größer ist bevorzugt es KZ 6.::Mg::}}<br></div>",
+                        "Be und Mg neigen zur Bildung kovalenter Verbindungen. Worin besteht der Unterschied zwischen diesen Verbindungen?<div>{{c1::\\(Be^{2+}\\) hat eine extrem hohe Ladungsdichte von \\(1100C*mm^{-3}\\) und kann alle Anionen polarisieren. Dies führt zu einer Überlappung der Elektronenhüllen z.B. \\(Be(H_2O)_4^{2+}\\) wo das Wasser kovalent an das Berylliumion gebunden ist. KZ 4 wegen geringer Größe des Ions üblich.::\\(Be^{2+}\\)}}</div><div><br>{{c2::Magnesium hat eine geringere Ladungsdichte von \\(120C*mm^{-3}\\), so dass sich das Mg-Ion zwischen Kohlenstoff- und Halogenatomen schieben kann. Da es größer ist bevorzugt es KZ 6.::Mg}}<br></div>",
                         ""
                     ],
                     "guid": "AY6+0/XcP0",
@@ -674,7 +674,18 @@
                 "Untitled-bed17cc6ef00ad478a4064c13eaf3243441374cf.png",
                 "Untitled-c90e96ddd58e54c611d202d2b846086321d9170f.png",
                 "Untitled-caf10487c195dfecf0cf0f0f266159a568cc789e.png",
-                "Untitled-cf6742445c1eb90123d0389aa63a3427014a43d7.png"
+                "Untitled-cf6742445c1eb90123d0389aa63a3427014a43d7.png",
+                "paste-020cfd3063eab1a87b4027844334d92b05fc6c5c.jpg",
+                "paste-1c5aabde05bdaf8008d2792940abcf658171afcf.jpg",
+                "paste-39024c959e0f8a6e22fefef0cd9c5814eee48b0d.jpg",
+                "paste-57c2fade672ded2f5e9545eb419a00be9f40688f.jpg",
+                "paste-7aa3afa94dea0124d4cba13b059626b14d406ed7.jpg",
+                "paste-7e2d8a80b2bca1d975a956db32052c8a3ac2988d.jpg",
+                "paste-80cdfe4ddad1c8c2f3debf8e6de58d5dde74f9fc.jpg",
+                "paste-8b3a09e620db43fb687fc279ce0a3626638e09bc.jpg",
+                "paste-92dbeed60295a8d9934f6956e7bf870ff7611442.jpg",
+                "paste-b93854ae71d5adb653ee1b2a0c11e25684a0c2dc.jpg",
+                "paste-cf9b48c38b0fcd662306820fe5ddc82d57ae98cb.jpg"
             ],
             "mid": 1604391419181,
             "name": "Genetik",
@@ -1470,6 +1481,270 @@
                     "tags": [
                         "_PP::Genetik::MolecularCloning"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein origin of repilcation, was ist ein Replicon?",
+                        "Startpunkt für DNA-abhängige DNA-Polymerase\nBei Plasmiden: stringent / relaxed (wenige / viele Vektorkopien in der Zelle)<div><br></div><div>Ein&nbsp;<b>Replikon</b>&nbsp;ist in der&nbsp;<a href=\"https://de.wikipedia.org/wiki/Genetik\">Genetik</a>&nbsp;ein&nbsp;<a href=\"https://de.wikipedia.org/wiki/DNA\">DNA</a>- oder&nbsp;<a href=\"https://de.wikipedia.org/wiki/RNA\">RNA</a>-Abschnitt, der ausgehend von einem&nbsp;<a href=\"https://de.wikipedia.org/wiki/Replikationsursprung\">Replikationsursprung</a>&nbsp;an einem Stück repliziert wird.<br></div>"
+                    ],
+                    "guid": "D0dZI?E%Vd",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Selektionsmarker, welche Typen von Marker benutzt man zum Klonieren in\nE.coli, welche in Hefe?&nbsp;<div><br></div><div>Warum braucht man einen solchen Markern überhaupt?</div>",
+                        "<div>Auxotrophiemarker (meist bei Hefen verwendet) (= Komplementation eines Gendefekts)&nbsp;</div><div>Bakterien wachsen ohne Vektor schneller als mit Selektionskriterium für &lt;&lt; 1%\nTransformanten. Und deswegen muss man Selektionsdruck aufrecht erhalten<br></div><div><br></div><div>Selektionsmarker auf Vektoren = selektierbare Gene Bakterien ohne dieses Gen sind auf gegebenem Nährmedium nicht wachstumsfähig.&nbsp;</div>"
+                    ],
+                    "guid": "MS@=;c[vzr",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was heißt Auxotrophie, was heißt Komplementation?",
+                        "<img src=\"paste-020cfd3063eab1a87b4027844334d92b05fc6c5c.jpg\">"
+                    ],
+                    "guid": "n/Q?<>H1D(",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine multiple Klonierungsschnittstelle = Polylinker?&nbsp;<div>Wozu dient sie?</div>",
+                        "Erleichterung der Klonierungsprozedur durch (synthetisch erstellte) Ansammlung mehrerer\nsingulärer Schnittstellen („single sites“),versammelt in Polylinker / mcs&nbsp;<div><br></div><div>dient:\nerleichtert Klonierungsprozedur, da man Res.enzyme wählen kann anhand der\nSchnittstelle.\nwird singulär geschnitten</div>"
+                    ],
+                    "guid": "ea^JZRr,Kp",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein shuttle-Vektor?",
+                        "<img src=\"paste-39024c959e0f8a6e22fefef0cd9c5814eee48b0d.jpg\">"
+                    ],
+                    "guid": "i2dfj`>#>=",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert die Selektion auf erfolgreiche Klonierung (d.h. erfolgreiche InsertLigation) mittels des blau-weiß-Selektionsverfahrens – Stichwort LacZ-Gen)",
+                        "<img src=\"paste-92dbeed60295a8d9934f6956e7bf870ff7611442.jpg\"><div><img src=\"paste-1c5aabde05bdaf8008d2792940abcf658171afcf.jpg\"><br></div>"
+                    ],
+                    "guid": "kfI|l(p`:I",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Lambda-Austausch-Vektor, was ist ein Insertionsvektor?&nbsp;<div>Was sind die\nzwei Vorteile beim Austausch-Vektor?</div>",
+                        "Austausch-Vektor: Polylinker wird teil rausgenommen&nbsp;<div>Insertionsvektor: Polylinker inden man inseriert<br></div><div><br></div><div>Vorteil Austausch-Vektor: kann größere Fragmente hineinpacken</div>"
+                    ],
+                    "guid": "CJ[~p8YZ~@",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert rolling-circle-Replikation bei M13, wie bei Lambda?",
+                        "Nick wird eingebracht, der für die DNA-Polymerase als Startpunkt dient. Muss Strangverdängung haben&nbsp;<div><img src=\"paste-7aa3afa94dea0124d4cba13b059626b14d406ed7.jpg\"><br></div>"
+                    ],
+                    "guid": "bO-6]mAo>[",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Linker, was ein Adapter?&nbsp;<div>Beschreiben Sie ein Klonierungsexperiment\nmit Adaptoren!</div>",
+                        "Kurze, synthetische, doppelsträngige DNA-Moleküle<div>&nbsp;• stellen Schnittstelle zur Verfügung&nbsp;</div><div>• werden in Klonierungsprozeduren eingesetzt&nbsp;</div><div>Linker: Doppelstrang, blunt&nbsp;</div><div>Adapter: Doppelstrang sticky ends</div><div><br></div><div>Linker trägt schnittstellenAdapter ist schon sticky geschnitten\nlinker muss nachgeschnitten werden, dazu muss man fragment mit Methylierung schützen Adapter muss man nach der Ligation noch phosphorilieren, damit sie zusammen passen<br></div>"
+                    ],
+                    "guid": "q-~fD;TC-7",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Hybridisierungssonde?&nbsp;<div>Wie werden Sonden markiert und detektiert?</div>",
+                        "Sonde = stück mich interessierenden DNA welche markiert ist um … zu untersuchen<div><br></div><div>Markierung: chemische Markierung (UTP), physikalische Markierung durch Radioaktivität, Digoxigenin-dUTP, Biotin-dUTP oder Fluoreszenzfarbstoff-dNTP</div><div><br></div><div>Detektion:</div><div><img src=\"paste-80cdfe4ddad1c8c2f3debf8e6de58d5dde74f9fc.jpg\"><br></div>"
+                    ],
+                    "guid": "z=$U<x:G4I",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Southern Blot, was ein Northern Blot?<div>Bei welchem von beiden werden\ndie Nukleinsäuren vor der Auftrennung geschnitten und warum?</div>",
+                        "<div><img src=\"paste-57c2fade672ded2f5e9545eb419a00be9f40688f.jpg\"><br></div><div><br></div><img src=\"paste-8b3a09e620db43fb687fc279ce0a3626638e09bc.jpg\"><div><br></div><div>Geschnitten: wird beim Southern Blot, Restriktion mit einem oder mehreren Enzymen → Generierung definierter\nFragmentlängen&nbsp;</div><div>Nothern Blot: RNA hat schon definierte Längen. Außerdem gibt es keine Res.enzyme für RNA.<br></div>"
+                    ],
+                    "guid": "z{>@,vw)*)",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Klonbibliothek („Genbank“)?<div>Wie wird sie erstellt, und in was für\nVektoren?</div>",
+                        "Klonbibliothek: Sammlung von Fragmenten<div>-&gt;&nbsp;Länge der Fragmente ist auf die Größe der Vektoren beschränkt</div><div><br></div><div>cDNA Genbank: Sammlung von mRNA&nbsp;</div><div><br></div><div>Klonbibliothek erstellen:&nbsp;</div><div>entweder Klonierung des Fragments in einem Phagenvektor oder einem Plasmidvektor&nbsp;</div><div><br></div><div>cDNA Genbank erstellen:</div><div>• mRNA-Präparation&nbsp;</div><div>• reverse Transkription in cDNA&nbsp;</div><div>• Doppelstrangsynthese\ncDNA Erststrang Zweitstrang)&nbsp;</div><div>• Klonierung in Vektoren&nbsp;</div><div>• Transformation &amp; Ausplattieren</div>"
+                    ],
+                    "guid": "l,_]Mzrd?4",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie identifiziert man das „gene of interest“?",
+                        "<h2>Kolonie-Hybridisierung</h2>\n<div>Die Kolonie-Hybridisierung wird genutzt um ‘positive‘ Klone zu identifizieren.</div>\n<ol>\n<li>Ausplattieren der Bibliothek</li>\n<li>‘Screenen‘ (Durchmustern) mit einem markierten Fragment des FoI</li>\n<li>Zuordnen des „Signals“ (= geschwärzte Stelle auf Film) zu bestimmten Bakterienkolonien.</li></ol>"
+                    ],
+                    "guid": "p[k?aq]!$@",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind „degenerierte Oligonukleotide“ ?",
+                        "Synthetisch hergestellte Oligonukleotide.<div><img src=\"paste-7e2d8a80b2bca1d975a956db32052c8a3ac2988d.jpg\"><br></div>"
+                    ],
+                    "guid": "iB1Ec*bOIE",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum werden cDNAs, kloniert in einem Standard-Vektor, nicht exprimiert? Welche\nEigenschaften braucht ein Expressionsvektor?",
+                        "cDNA wird in E.coli nicht transkribiert.<div>Eigenschaften des Expressionsvektors:</div><div>-&nbsp;Promotor und Terminato</div><div>-&nbsp;Zur Translation: eine Ribosombindestelle, das AUG im richtigen Leseraster</div><div>- Ein Promotor, eine Ribosombindestelle, Terminator, richtiges Leseraster<br></div>"
+                    ],
+                    "guid": "F;E_ceQn!l",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind cis-wirksame, was sind trans-wirksame Kontrollelemente?",
+                        "cis Element = Seq-Bereich der DNA („Box“) -&gt; siehe Promotor<div>trans Element = diffusibler Faktor (meist regulatorisches Protein)<br></div>"
+                    ],
+                    "guid": "A]3dVumc;L",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein induzierbarer, was ein reprimierbarer Promotor?<div><br></div><div>Warum möchte man die\nPromotoren von Expressionsvektoren gerne steuern können?&nbsp;</div><div><br></div><div>Was ist ein Induktor?</div>",
+                        "Reprimierbarer Promotor: Repression: Gen (+/-) aktiv, aber durch Metaboliten abschaltbar<div><br></div><div>Warum gerne steuern: man kann exprimierte Menge steuern Bsp. Giftiges für E.COli um es\nabzutöten wenn genug exprimiert wurde<br></div><div><br></div><div>Induktor: Regulatorprotein (oder Metabolit), welches für die Induktion sorgt</div><div>(Induktion: Gen inaktiv, aber durch Metaboliten anschaltbar)<br></div>"
+                    ],
+                    "guid": "wXYQR6W,nO",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie geht man vor, um einen gesuchten Klon aus einer Klonbibliothek zu\nidentifizieren, wenn man keine Information über die DNA-Sequenz, wohl aber\nAntikörper zur Verfügung hat?",
+                        "<img src=\"paste-cf9b48c38b0fcd662306820fe5ddc82d57ae98cb.jpg\">"
+                    ],
+                    "guid": "PWfF]aN+&J",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Fusionsprotein?&nbsp;<div>Worauf ist zu achten, wenn man ein Fusionsprotein\nüber Klonierungsschritte erstellen will, damit beide Fusionspartner korrekt zur\nExpression kommen?</div>",
+                        "Fusionsprotein: Proteine, die aus mindestens 2 Anteilen unterschiedlicher Herkunft bestehen<div><br></div><div><div>Die beiden Fusionspartner müssen:</div>\n<ul>\n<li>im selben Leseraster liegen und</li>\n<li>dürfen nicht durch ein Stop-Codon getrennt sein</li></ul><div>Müssen entweder in einem Expressionsvektor oder gentechnologisch in einem Wirtsgenom integriert sein.&nbsp;</div></div>"
+                    ],
+                    "guid": "h`6TdmReBr",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wofür dienen (üblicherweise) fluoreszierende Fusionskonstrukte ?",
+                        "Fluoreszenzproteinen (GFP, DsRed) generell zur Visualisierung des Protein.<div><br></div><div>(Bsp.: grün fluoreszierende Tubulingrüste)<br></div>"
+                    ],
+                    "guid": "d|!zu5u!--",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wofür dienen (üblicherweise) Fusionskonstrukte mit Affinitäts-Tags?<div>Was ist der\nSinn des 6xHis-Tags, wie sehen die einzelnen Prozessschritte aus ?</div>",
+                        "Affinitätstags (His6, GST) schnelle und effiziente Reinigung des Proteins.<div><br><div><img src=\"paste-b93854ae71d5adb653ee1b2a0c11e25684a0c2dc.jpg\"><br></div></div>"
+                    ],
+                    "guid": "FcgQ{>PejW",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wozu baut man Erkennungsstellen für hochspezifische Proteasen in\nFusionskonstrukte ein?",
+                        "Bei Fusionsproteine nutzt man diese um beide Fusionspartner zu trennen. Nötig wenn man einen Fusionspartner hochrein haben möchte<div>Klonierung einer Endopeptidase-Erkennungsstelle („Restriktionspeptidasen“)\nzwischen GOI und abzuspaltendem Fusionsanteil Behandlung des gereinigten Proteins mit der\nProtease oder Abspaltung des GOI mit Protease noch auf der Affinitätssäule</div>"
+                    ],
+                    "guid": "dR`jOPlb`?",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::MolecularCloning"
+                    ]
                 }
             ]
         }
@@ -1746,7 +2021,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "_PP::Biochemie::Enzyme"
+                "_PP::Genetik::MolecularCloning"
             ],
             "tmpls": [
                 {
