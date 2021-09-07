@@ -663,6 +663,7 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "Screenshot 2021-07-28 170636.jpg",
                 "Untitled-00e8e5e60ffd0a727358507dcaee636462b8b2cf.png",
                 "Untitled-0f9fd1bb83254f52a52e4ae734f859b89c2db40a.png",
                 "Untitled-107cba877ef28bc86ed2db78568099e7e81d352a.png",
@@ -1745,6 +1746,174 @@
                     "tags": [
                         "_PP::Genetik::MolecularCloning"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Microarray / DNA-Chip?",
+                        "Methode um GOI (Gene of interest) zu finden. Dabei werden die Sonden auf einem Chip befestigt und das\nmarkierte GOI hybridisiert.&nbsp;<div>Muss nicht nur von einem Organismus sein.&nbsp;</div><div>Die Sonden müssen Einzelsträngig sein.\nOligonukleotide auf den Chip\nmarkierte GOI leuchten auf sobald sie gebunden haben(sind fluoreszenzmarkiert/gelabelt), Rest wird abgewaschen</div>"
+                    ],
+                    "guid": "I!00sOhuY9",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNA-Microarray"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der grundsätzliche Unterschied zwischen Microarrays und Northern-Blots?&nbsp;<div>(a) Anzahl der Sondern / Targets,&nbsp;</div><div>(b) wer/was wird markiert,&nbsp;</div><div>(c) wie hoch ist jeweils die\nParallelität?</div>",
+                        "Grundsätzlicher Unterschied ist, dass beim Northern Blot die RNA aufgetragen wird und\nSonden binden und bei Microarrays ist ein Chip mit Sonden vorhanden auf dem die\nEinzelstrang DNA bindet.&nbsp;Gelabelt ist immer der mobile.<div><br><div>a)&nbsp;</div><div>Northern: ein Target das auf Gel aufgetrennt wird. Viele Sonden die hybridisieren sollen\ngibt Längeninfo&nbsp;</div><div>Mircoarray: viele Sonden, ein Target.&nbsp;</div><div><br></div><div>b)&nbsp;</div><div>Northern: Markierung der Sonden (radioaktiv)&nbsp;</div><div>Microarray: Markierung des Targets durch fluoreszenz dNTPs&nbsp;</div><div><br></div><div>c) Parallelität:&nbsp;</div><div>Wieviele in einem Vorgang abarbeiten.&nbsp;</div><div>- Bei den Mikroarrays von den Sonden nahezu unendlich viele.&nbsp;</div><div>- Targets in Mikroarrays fast nur 2 wegen 2 Farbstoffen.</div><div><br></div><div>- Bei Northern eine Sonde (die die man wissen will)&nbsp;</div><div>- Targets beim Northern kann man dutzende nutzen (soviele wie ich Taschen hab)<br></div></div>"
+                    ],
+                    "guid": "D%$P^YhhUw",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNA-Microarray"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nennen Sie Anwendungen für Microarrays (also Fragestellungen, die mit ihnen bearbeitet\nwerden)!",
+                        "krank/gesund,<div>jung/alt,&nbsp;</div><div>nicht infiziert / infiziert<br></div><div>Patient X / Patient Y&nbsp;</div><div>Gewebe X / Gewebe Y<br></div>"
+                    ],
+                    "guid": "NOd-ZnAYXI",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNA-Microarray"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welches sind „die 4 Probleme der DNA-Replikation“ in Eukaryonten?",
+                        "Polymerase können:&nbsp;<div>- Dna nicht denaturieren&nbsp;</div><div>- nur prä-existierenden Strang verlängern (brauchen Primer)</div><div>- nur in 5'--&gt; 3'-richtung replizieren (Stränge sind jedoch gegenläufig)&nbsp;</div><div>- Problem der offenen Enden nach der Replikation</div>"
+                    ],
+                    "guid": "yBy!^h6o^3",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNA-Replikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Okazaki-Fragment?<div>Warum gibt es sie überhaupt?</div>",
+                        "Ein Okazaki-Fragment ist ein kurzes Stück DNA, welches zwischen 2 Primern auf dem Folgestrang liegt.<div>Diese Fragmente entstehen, da die DNA-Polymerase nur von 5' → 3' arbeiten kann. Somit können auf dem Folgestrang nur kleine Stücke synthetisiert werden.<br></div>"
+                    ],
+                    "guid": "p!kk/3[i*g",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNA-Replikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Aufgabe der Telomerase?&nbsp;<div>Warum überhaupt ist sie notwendig?</div>",
+                        "Um offene Enden zu vermeiden, bzw. sie zu verlängern, baut die Telomerase immer wieder neue \nRepeat-Einheiten an den replizierten Strang.<div>Durch die Verlängerung am 5'-3' Strang kann ein neues Okazaki-Fragment andocken und die DNA\nwird somit durch Repeats verlängert.&nbsp;</div><div>→ Kompensierung von Verlusten<br></div>"
+                    ],
+                    "guid": "q#KMypiI$k",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNA-Replikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Replikationsgabel?",
+                        "In der Replikationsgabel befindet sich die Helikase die den DNA-Doppelstrang öffnet um die\nReplkation möglich zu machen."
+                    ],
+                    "guid": "A/3%WIC4`.",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNA-Replikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Histone, Oktamere, Nukleosomen, DNA-Fibrillen?",
+                        "Die Histone sind Bestandteile des Chromatins. Somit sind diese für die Verpackung der DNA von Bedeutung.<div>Ein Makromolekül, das sich aus acht gleichartigen Bausteinen zusammensetzt.<br></div><div>Die Nukleosomen sind die kleinste Verpackungseinheiten der DNA.<br></div><div>DNA-Fibrillen sind eine kleinere Packung des DNA-Fadens.<br></div>"
+                    ],
+                    "guid": "Byd%MtW$WW",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNA-Replikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist konservative, was semikonservative Replikation?&nbsp;<div><br></div><div>Welche davon gibt es in Lebewesen?&nbsp;</div><div><br></div><div>Wie wurde sie nachgewiesen?</div>",
+                        "Konservativ: DNA-Doppelstrang wird komplett kopiert.&nbsp;<div>Semikonservativ: semi= halb → DNA-Strang liebt halb als Original-Strang vor, komplementäre\nStrang ist Kopie (repliziert) worden.</div><div><br></div><div>in Lebewesen gibt es nur die semikonservative Replikation, diese ermöglicht eine genau\nReplikation ohne Fehler<br></div><div><br></div><div>Nachweis der Replikation erfolgte durch Meselson und Stahl. Indem sie Bakterien auf 15N\nNährboden brachten und auf 14N Nährboden. Die 1. Generation hatte halbschwere banden etc.<br></div>"
+                    ],
+                    "guid": "x4zx5Zh0{Q",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNA-Replikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wieviele oriR’s hat ein Bakterienchromosom, wie viele ein Eukaryontenchromosom?&nbsp;<div>OriR= Origin of Replication</div>",
+                        "Bakterienchromosom hat genau 1 oriR und Eukaryonten haben mehrere."
+                    ],
+                    "guid": "Bo~h{hk)<~",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNA-Replikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nennen Sie die Proteine der Replikationsmaschinerie!",
+                        "<img src=\"Screenshot 2021-07-28 170636.jpg\">"
+                    ],
+                    "guid": "uQMg9.2A_?",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::DNA-Replikation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie heißen die Hauptphasen der Mitose, und was passiert jeweils in ihnen?",
+                        "<u>Phasen der Mitose&nbsp;</u><div><b><br></b></div><div><b>Prophase&nbsp;</b></div><div>o Kondensation der replizierten Chromosomen&nbsp;</div><div>o Ausbildung der mmitotischen Spindel&nbsp;</div><div><br></div><div><b>Prometaphase&nbsp;</b></div><div>o Auflösung der Kernhüllle&nbsp;</div><div>o Anheftung der Chromosomen mit den Kinetochoren (Proteinkomplex am Centromer) an den\nSpindelapparat</div><div><br></div><div><b>Metaphase&nbsp;</b></div><div>o Chromosomen sind am Äquator der Spindel angeordnet&nbsp;</div><div>o Jedes Chromosom ist mit jeweils einem Mikrotubulus mit beiden Spindelpolen verbunden&nbsp;</div><div><br></div><div><b>Anaphase&nbsp;</b></div><div>o Gepaarte Chromatiden trennen sich und bilden Tochterchromosomen&nbsp;</div><div>o Tochterchromosomen bewegen sich auf Spindelpole zu, weil Mikrotubuli kürzer werden und\nSpindelpole auseinanderdrücken&nbsp;</div><div><br></div><div><b>Telophase&nbsp;</b></div><div>o Tochterchromosomen kommen an Polen</div><div>o Bildung neuer Kernhüllen um beide Cromosomensätze&nbsp;</div><div>o Bildung eines kontraktilen Ringes (Actin und Mysosinfilamente)&nbsp;</div><div><br></div><div><b>Cytokinese</b></div><div>o Teilung des Cytoplasmas durch Enschnürung des kontraktilen Ringes</div>"
+                    ],
+                    "guid": "hSEDSSmWlz",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::ZellteilungUndMendel"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Meiose?&nbsp;<div>Was bedeutet Prä- / Postreduktion?</div>",
+                        "Die Meiose ist die Zellteilung der Keimzellen.<br><div><br></div><div>Präreduktion: Die elterlichen Allele werden in der Centromerregion getrennt.<br></div><div>Postreduktion: Dort findet die Trennung der elterlichen Allele im Bereiche, die durch Crossover das Chromosom getauscht haben.<br></div>"
+                    ],
+                    "guid": "oCst-y3q/!",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::ZellteilungUndMendel"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was besagen die drei Mendelschen Erbregeln?",
+                        "1. Uniformitäts- / Gleichheitsregel:<div>kreuzt man reinerbige, aber genetisch unterschiedliche Individuen, so ist die F1-Generation uniform.<div><br></div><div>2. Spaltungsregel /Reinheit d. Gameten:</div><div>kreuzt man die F1-Generation untereinander, so spalten die Merkmale im Verhältnis 3:1\n(dom./rezess) bzw. 1:2:1 (intermediär).&nbsp;</div><div><br></div><div>3. Unabhängigkeits- / Neukombinationsregel:</div><div>betrachtet man mehr als ein Merkmal, so verlaufen die Erbgänge unabhängig voneinander<br></div></div>"
+                    ],
+                    "guid": "cA036RY-_0",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Genetik::ZellteilungUndMendel"
+                    ]
                 }
             ]
         }
@@ -2021,7 +2190,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "_PP::Genetik::MolecularCloning"
+                "_PP::Genetik::ZellteilungUndMendel"
             ],
             "tmpls": [
                 {
