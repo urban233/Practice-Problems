@@ -4,475 +4,6 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "88c08944-0d84-11ec-8b47-14f6d8a21624",
-            "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [
-                "65a40801f7444e4f928a0c30a4ec9aa5-oa-1-A.svg",
-                "65a40801f7444e4f928a0c30a4ec9aa5-oa-1-Q.svg",
-                "65a40801f7444e4f928a0c30a4ec9aa5-oa-2-A.svg",
-                "65a40801f7444e4f928a0c30a4ec9aa5-oa-2-Q.svg",
-                "65a40801f7444e4f928a0c30a4ec9aa5-oa-3-A.svg",
-                "65a40801f7444e4f928a0c30a4ec9aa5-oa-3-Q.svg",
-                "65a40801f7444e4f928a0c30a4ec9aa5-oa-O.svg",
-                "bb65a879314a4b3b83727c46f79ef8d5-oa-1-A.svg",
-                "bb65a879314a4b3b83727c46f79ef8d5-oa-1-Q.svg",
-                "bb65a879314a4b3b83727c46f79ef8d5-oa-2-A.svg",
-                "bb65a879314a4b3b83727c46f79ef8d5-oa-2-Q.svg",
-                "bb65a879314a4b3b83727c46f79ef8d5-oa-3-A.svg",
-                "bb65a879314a4b3b83727c46f79ef8d5-oa-3-Q.svg",
-                "bb65a879314a4b3b83727c46f79ef8d5-oa-O.svg",
-                "eae782d11c26451c90f08c5b88a70d68-oa-1-A.svg",
-                "eae782d11c26451c90f08c5b88a70d68-oa-1-Q.svg",
-                "eae782d11c26451c90f08c5b88a70d68-oa-2-A.svg",
-                "eae782d11c26451c90f08c5b88a70d68-oa-2-Q.svg",
-                "eae782d11c26451c90f08c5b88a70d68-oa-3-A.svg",
-                "eae782d11c26451c90f08c5b88a70d68-oa-3-Q.svg",
-                "eae782d11c26451c90f08c5b88a70d68-oa-O.svg",
-                "tmpvrm_lh71.png"
-            ],
-            "name": "Anorganische Chemie",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Erklären Sie die Unterschiede in den Gruppeneigenschaften zwischen Be und Mg sowie Ca, Sr und Ba.<div>Allgemein:</div><div>{{c1::</div><div>- wegen erhöhter Kernladungszahl größere Elektronegativität und kleinere Atomradien als in HG I<br>- ähnliches chemisches Verhalten von Calcium, Strontium und Barium<br>- große Sprünge im chemischen Verhalten von Beryllium zu Magnesium und zu Ca, Sr}}<br></div><div><br>Be:&nbsp;</div><div>{{c2::</div><div>- hohe Ionisierungsenergie und kleiner Atomradius \\(\\rightarrow\\) vorwiegend kovalente Verbindungen}}</div><div><br></div><div>Mg:&nbsp;</div><div>{{c3::<div>- bildet sowohl kovalente als auch ionische Verbindungen \\(\\rightarrow\\)&nbsp;steht zwischen Be und Ca, Sr und Ba</div><div></div>}}<br></div><div><br></div><div>Ca,Sr,Ba:</div><div>{{c4::</div><div>- bilden vorwiegend ionische Festkörper; enge Verwandtschaft \\(\\rightarrow\\)&nbsp;Eigenschaften ändern sich systematisch mit}}</div>",
-                        ""
-                    ],
-                    "guid": "x%y)zJ6xj>",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche Schrägbeziehungen zu anderen Hauptgruppenelementen gibt es in der Erdalkalimetallgruppe?<div>{{c1::</div><div>Li/Mg<br>Be/Al</div><div>}}<br></div>",
-                        ""
-                    ],
-                    "guid": "MV{oNTb_TF",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bb65a879314a4b3b83727c46f79ef8d5-oa-1",
-                        "",
-                        "<img src=\"tmpvrm_lh71.png\" />",
-                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-1-A.svg\" />",
-                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-O.svg\" />"
-                    ],
-                    "guid": "mv{hYnO_s;",
-                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bb65a879314a4b3b83727c46f79ef8d5-oa-2",
-                        "",
-                        "<img src=\"tmpvrm_lh71.png\" />",
-                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-2-A.svg\" />",
-                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-O.svg\" />"
-                    ],
-                    "guid": "tdM3Blrvdj",
-                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bb65a879314a4b3b83727c46f79ef8d5-oa-3",
-                        "",
-                        "<img src=\"tmpvrm_lh71.png\" />",
-                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-3-A.svg\" />",
-                        "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-O.svg\" />"
-                    ],
-                    "guid": "PmSh(<b_8p",
-                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "eae782d11c26451c90f08c5b88a70d68-oa-1",
-                        "",
-                        "<img src=\"tmpvrm_lh71.png\" />",
-                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-1-A.svg\" />",
-                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-O.svg\" />"
-                    ],
-                    "guid": "er_$hZOx|C",
-                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "eae782d11c26451c90f08c5b88a70d68-oa-2",
-                        "",
-                        "<img src=\"tmpvrm_lh71.png\" />",
-                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-2-A.svg\" />",
-                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-O.svg\" />"
-                    ],
-                    "guid": "mHK!dgdl>b",
-                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "eae782d11c26451c90f08c5b88a70d68-oa-3",
-                        "",
-                        "<img src=\"tmpvrm_lh71.png\" />",
-                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-3-A.svg\" />",
-                        "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-O.svg\" />"
-                    ],
-                    "guid": "IF:L7L>+m,",
-                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "65a40801f7444e4f928a0c30a4ec9aa5-oa-1",
-                        "",
-                        "<img src=\"tmpvrm_lh71.png\" />",
-                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-1-A.svg\" />",
-                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-O.svg\" />"
-                    ],
-                    "guid": "ky,?~I2kB_",
-                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "65a40801f7444e4f928a0c30a4ec9aa5-oa-2",
-                        "",
-                        "<img src=\"tmpvrm_lh71.png\" />",
-                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-2-A.svg\" />",
-                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-O.svg\" />"
-                    ],
-                    "guid": "r,Q5{0v90#",
-                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "65a40801f7444e4f928a0c30a4ec9aa5-oa-3",
-                        "",
-                        "<img src=\"tmpvrm_lh71.png\" />",
-                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-3-A.svg\" />",
-                        "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-O.svg\" />"
-                    ],
-                    "guid": "c1`Gb?creF",
-                    "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Be und Mg neigen zur Bildung kovalenter Verbindungen. Worin besteht der Unterschied zwischen diesen Verbindungen?<div>{{c1::\\(Be^{2+}\\) hat eine extrem hohe Ladungsdichte von \\(1100C*mm^{-3}\\) und kann alle Anionen polarisieren. Dies führt zu einer Überlappung der Elektronenhüllen z.B. \\(Be(H_2O)_4^{2+}\\) wo das Wasser kovalent an das Berylliumion gebunden ist. KZ 4 wegen geringer Größe des Ions üblich.::\\(Be^{2+}\\)}}</div><div><br>{{c2::Magnesium hat eine geringere Ladungsdichte von \\(120C*mm^{-3}\\), so dass sich das Mg-Ion zwischen Kohlenstoff- und Halogenatomen schieben kann. Da es größer ist bevorzugt es KZ 6.::Mg}}<br></div>",
-                        ""
-                    ],
-                    "guid": "AY6+0/XcP0",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was versteht man unter einer Grignard-Verbindung und zu welchem Zweck wird diese in der chemischen Synthese organischer Verbindungen eingesetzt.<div>{{c1::Als Grignard-Verbindung bezeichnet man das Produkt der Reaktion eines Alkyhalogenids mit Magnesium.<br>R--X + Mg \\(\\rightarrow\\) R--Mg—X<br>Das C-Atom an dem das Halogenatom vorher gesessen hat und vorher eine positive Partialladung hatte wird durch die Reaktion mit Mg “umgepolt“, herhält also eine negative Partialladung.<br>Dadurch wird ein nukleophieler Angriff des besagten C-Atoms an ungesättigte C, O und CN-Verbindungen möglich.}}<br></div>",
-                        ""
-                    ],
-                    "guid": "MKxN<HrNzc",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche physiologischen Eigenschaften besitzen die Erdalkalimetalle und in welchen Biomineralien kommen sie vor?<div>Be:&nbsp;</div><div>{{c1::extrem giftig, stark krebserzeugend}}<br>Mg:</div><div>{{c2::Salze spielen vor allem bei Pflanzen im Stoffwechsel eine bedeutende Rolle (Chlorophyll)}}<br>Ca:&nbsp;</div><div>{{c3::Verbindungen in Knochen (Calciumphosphat), Zähnen, Gehäusen (Calciumcarbonat), sowie verschiedenen Pflanzen (Calciumoxalat)}}<br>Sr:&nbsp;</div><div>{{c4::Strontiumbromid ist ein in der Medizin verwendetes Beruhigungsmittel}}<br>Ba:</div><div>{{c5::giftig}}<br></div>",
-                        ""
-                    ],
-                    "guid": "sVb{Xj.]o?",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie verhält sich der basische Charakter der Oxide und Hydroxyde innerhalb der Hauptgruppe mit zunehmender Ordnungszahl?<div>{{c1::Der basische Charakter nimmt von Be zu Ba zu.<br>1. Weil die Elektronegativität geringer wird \\(\\rightarrow\\) Zunahme des ionischen Charakters der Metall-Sauerstoff-Bindung<br>2. Wegen der besseren Polarisierbarkeit und damit Stabilisierbarkeit der größeren Kationen}}<br></div>",
-                        ""
-                    ],
-                    "guid": "j?IFq{4^oR",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Erklären Sie die Zunahme der thermischen Stabilität z.B. der Cabonate vom Be zum Ba.<div>{{c1::<div>Mit steigendem basischem Charakter steigt auch die thermische Stabilität mit schwachen Säuren wie z.B. dem Carbonat</div>}}</div>",
-                        ""
-                    ],
-                    "guid": "uF$0Vtm]SO",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie können die Elemente der ersten Hauptgruppe in reiner (metallischer) Form dargestellt werden?<div>{{c1::Durch Schmelzflusselektrolyse der Salzschmelzen}}</div>",
-                        ""
-                    ],
-                    "guid": "kxz2:b},pd",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG1",
-                        "AnorganischeChemie::HG1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Erklären Sie die Leitfähigkeit und Farbe einer Lösung von Natrium in flüssigem\nAmmoniak.<div>{{c1::<div>Das Na wird also in Na+\nund ezerlegt welche dann Komplexe mit den\nAmmoniakmolekülen bilden.\nDurch die “freien“ Elektronen ist die hohe Leitfähigkeit gegeben. Die Elektronen sind\ndurch ihre Interaktion mit Licht ebenfalls für die Blaufärbung der Lösung verantwortlich.</div>}}<br></div>",
-                        ""
-                    ],
-                    "guid": "j=|+N5ap@*",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG1",
-                        "AnorganischeChemie::HG1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Geben Sie die Ursache für die unterschiedlichen Gitterenergien der Alkalihalogenide\nan.<div>{{c1::Alle Alkalihalogenide weisen einen kubisch-primitiven Gittertyp (NaCl-Typ;\nKoordinationszahl = 6) auf.\nDer Unterschied in den Gitterenergien kommt durch die verschiedenen\nLadungs-/Radienverhältnise von Anionen und Kationen zustande.\nDie Ladung der Ionen ist immer gleich. Der Radius der Ionen steigt jedoch bei den\nAlkalimetallen vom Li zum Cäsium und bei den Halogenen vom Fluor zum Iod.\nGleichzeitig nimmt die Gitterenergie ab.\nDadurch weißt das Lithiumfluorid die höchste Gitterenergie auf und das Cäsiumiodid die\ngeringste.}}<br></div>",
-                        ""
-                    ],
-                    "guid": "c31!k*{8&1",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG1",
-                        "AnorganischeChemie::HG1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Warum kann NaCl nicht durch Umkristallisation gereinigt werden?<div>{{c1::Die Temperaturabhängigkeit des Lösungsverhaltens von NaCl ist zu gering.\nEs würde also zu viel NaCl in der Lösung verbleiben.}}<br></div>",
-                        ""
-                    ],
-                    "guid": "yKRppJ5XVV",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG1",
-                        "AnorganischeChemie::HG1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche Alkalimetallsalze sind in Wasser schlecht löslich?<div>{{c1::\\(LiF\\), \\(NaF\\), \\(Li_2CO_3\\), \\(Li_3[PO_4]\\)}}</div>",
-                        ""
-                    ],
-                    "guid": "fjR?~oSj,<",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG1",
-                        "AnorganischeChemie::HG1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Erklären Sie die chemische Verwandschaft (Schrägbeziehungen) zwischen Lithium und\nMagnesium.<div>{{c1::Zustandekommen durch ähnliche Atomradien und ähnliche Ladungsdichten.}}&nbsp;</div><div>Beispiele:&nbsp;</div><div>{{c2::<div> Bildung normaler Oxide bei Verbrennung (\\(Li_2O\\), \\(MgO\\))&nbsp;</div><div> thermische Instabilität der Carbonate und Nitrate&nbsp;</div><div> die Bildung der Carbide und Nitride aus den Elementen&nbsp;</div><div> Schwerlöslichkeit der Carbonate und Phosphate&nbsp;</div><div> Hygroskopizität&nbsp;</div><div> starke Solvatation der Kationen&nbsp;</div><div> große Löslichkeit einiger Salze (Bsp. Chloride) in\norganischen Lösungsmitteln\n Ähnliche Basizität&nbsp;</div><div> keine Peroxidbildung beim Verbrennen</div>}}<br></div>",
-                        ""
-                    ],
-                    "guid": "dEs!V:yCvi",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG1",
-                        "AnorganischeChemie::HG1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "In welcher Form kommen die Erdalkalimetalle in der Natur vor?<div>{{c1::Sie kommen aufgrund ihrer hohen Reaktivität nur in gebundener Form in der Natur vor.}}<br></div><div><br></div><div>Be:<br>{{c2:: Beryll: Be3Al2[Si6O18]<br> Chrysoberyll: Al2[BeO4]}}<br></div><div><br>Mg:<br>{{c3:: Meerwasser: MgCl, MgCO4, MgBr2<br> Blattgrün: Chlorophyll<br> Carbonate:<br>o Magnesit: MgCO3<br>o Dolomit: MgCO3*CaCO3<br> Kalisalze:<br>o Kieserit: MgSO4*H2O<br>o Bittersalz: MgSO4*7H2O<br>o Kainit: KCl*MgSO4*3H2O<br>o Bischofit: MgCl2*6H2O<br> Silicate<br>o Olivin: (Mg,Fe)2[SiO4]<br>o Talk: [Mg3(OH)2][Si4O10]}}<br></div><div><br>Ca:</div><div>{{c4::<div> Kalk, Marmor, Kreide: CaCO3<br> Gips: CaSO4*2H2O<br> Anhydrit: CaSO4<br> Apatit: Ca5(PO4)3*(OH,F,Cl)<br> Flußspat: CaF2<br> Calciumhydroxid: Ca(OH)2</div><div></div>}}<br></div><div><br></div><div>Sr<br>{{c5:: Strontianit: SrCO3<br> Cölestin: SrSO4}}<br></div><div><br></div><div>Ba:<br>{{c6:: Witherit: BaCO3<br> Schwerspat: BaSO4}}<br></div><div><br>Ra:<br>{{c7::sehr selten (zerfällt radioaktiv)}}<br></div>",
-                        ""
-                    ],
-                    "guid": "LfApzB^9_:",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie können die Elemente in reiner (metallischer) Form dargestellt werden?<div><br><div>Elektrolytisches Verfahren:</div><div>{{c1::<div>1. Dolomitbrennen<br>2. \\(MgO + CaO + MgCl_2 + H_2O ↔ CaCl_2 + 2Mg(OH)_2 Mg(OH)_2 ↔ MgO + H_2O (durch ΔT)\\)<br>3. \\(MgO + C + Cl_2 ↔ MgCl_2 + CO\\)<br>4. \\(MgCl_2 ↔ Mg+Cl_2\\)<br>Senkung des Schmelzpunktes durch Zugabe von Alkalifluoriden auf 650-720°C<br>Rheinheitsgrad 99,8%<br>Zur Herstellung von 1kg Mg sind 18kWh nötig</div><div></div>}}<br></div><div><br></div><div>Carbothermisches Verfahren:</div><div>{{c2::<div>direkte Reduktion des MgO mit C im elektrischen Ofen (T = 2000°C)<br>\\(MgO + C \\rightarrow Mg + CO\\)<br>Sdp. Mg = 1107°C<br> Mg entweicht gasförmig<br> extrem schnelle Abkühlung und Kondensation in H2-Atmosphäre</div><div></div>}}<br></div><div><br></div><div>Silicothermisches Verfahren:<br>{{c3::direkte Reuktion von gebranntem Dolomit mit Si im Ofen (T = 1200-1400°C)<br>\\(2 MgO + 2 CaO + Si \\rightarrow&nbsp;Ca_2SiO_4 + Mg\\)<br>Sdp. Mg = 1107°C<br> Mg mit einem Reinheitsgrad von 98-99% wird abdestilliert und in luftgekühlten Vorlagen verdichtet}}<br></div></div>",
-                        ""
-                    ],
-                    "guid": "tFdw+KO=T<",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche Bedeutung haben Ca-Verbindungen als Bindebaustoffe? Erklären Sie den Prozess der Herstellung sowie die Reaktionen, die zur Namengebung dieser Stoffe beigetragen haben und deren Funktion sichern.<div>Gips:<br>{{c1::\\(\\CaSO_4*2H_2O\\) wird bergmännisch abgebaut<br>Gipsbrennen: \\(\\CaSO_4*2H_2O&nbsp;\\rightarrow CaSO_4*½H_2O\\) (Hartformgips)<br>\\(\\CaSO_4*½H_2O \\rightarrow&nbsp;CaSO_4\\) (Anhydrid I,II oder III)<br>Bei der Verwendung wird der Gips mit Wasser angerührt worauf es nach einiger Zeit zum Abbinden kommt: \\(\\CaSO_4 + 2H_2O \\rightarrow&nbsp;CaSO_4*2H_2O\\)</div><div>Dabei verfilzen die nadelförmigen Kristalle.<br>Dadurch bekommt der Gips wieder eine hohe Festigkeit wodurch er als Innen-, Außenputz und für Estriche nutzbar wird.}}<br>Kalk:<br>{{c2::\\(\\CaCO_3\\) wird bergmännisch abgebaut<br>Kalk brennen: \\(\\CaCO_3\\)&nbsp;(Kalkstein) \\(\\rightarrow\\)&nbsp;CaO (gebrannter Kalk) + \\(\\CO_2\\)↑<br>Kalk löschen: \\(\\CaO + 2H_2O&nbsp;\\rightarrow Ca(OH)_2\\) (Löschkalk oder Luftmörtel)<br>Verwendung: Löschkalk + Sand + H2O \\(\\rightarrow\\)&nbsp;Kalkmörtel<br>Abbinden: \\(\\Ca(OH)_2 + CO_2\\) (aus der Luft) \\(\\rightarrow&nbsp;CaCO_3 + H_2O\\)}}<br></div>",
-                        ""
-                    ],
-                    "guid": "dM1m0q+v|-",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Nach welchen 3 Verfahren kann metallisches Magnesium hergestellt werden? Erläutern sie den Verfahrensablauf anhand der entsprechenden Reaktionsgleichungen und Reaktionsbedingungen.<div>Elektrolytisches Verfahren:<br>{{c1::1. Dolomitbrennen<br>2. MgO + CaO + \\(MgCl_2 + H_2O\\) ↔ \\(CaCl_2 + 2Mg(OH)_2 Mg(OH)_2\\) ↔ MgO + \\(H_2O\\) (durch ΔT)<br>3. MgO + C + \\(Cl_2\\) ↔ \\(MgCl_2\\) + CO</div><div>4. \\(MgCl_2\\) ↔ Mg+\\(Cl_2\\)</div><div>Senkung des Schmelzpunktes durch Zugabe von Alkalifluoriden auf 650-720°C<br>Rheinheitsgrad 99,8%<br>Zur Herstellung von 1kg Mg sind 18kWh nötig}}</div><div><br>Carbothermisches Verfahren:<br>{{c2::direkte Reduktion des MgO mit C im elektrischen Ofen (T = 2000°C)<br>MgO + C \\(\\rightarrow\\) Mg + CO<br>Sdp. Mg = 1107°C<br>- Mg entweicht gasförmig<br>- extrem schnelle Abkühlung und Kondensation in \\(H_2\\)-Atmosphäre}}</div><div><br>Silicothermisches Verfahren:<br>{{c3::direkte Reuktion von gebranntem Dolomit mit Si im Ofen (T = 1200-1400°C)<br>2MgO + 2CaO + Si \\(\\rightarrow\\) \\(Ca_2SiO_4\\) + Mg</div><div>Sdp. Mg = 1107°C<br>- Mg mit einem Reinheitsgrad von 98-99% wird abdestilliert und in luftgekühlten Vorlagen verdichtet}}<br></div>",
-                        ""
-                    ],
-                    "guid": "K/rfe%]@p.",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG2",
-                        "AC::HG2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "In welcher Form kommen die Alkalimetalle in der Natur vor?<div>{{c1::Aufgrund ihrer hohen Reaktivität (erste Ionisierungsenergie recht gering) kommen\nAlkalimetalle nur gebunden in der Natur in Form von einwertigen Kationen vor.::Allgemeines Vorkommen}}<br></div><div><br></div><div>Li:&nbsp;</div><div>{{c2::<div> “Begleiter“ des Kaliums und Natriums (ist oft in deren Vorkommen in geringen\nKonzentrationen mit enthalten)&nbsp;</div><div> Petalit \\(LiAl[Si_2O_5]_2\\)&nbsp;</div><div> Spodumen \\(LiAl[SiO_3]_2\\)&nbsp;</div>}}<br></div><div>Na:&nbsp;</div><div>{{c3::<div> Natronfeldspat \\(NaAlSi_3O_8\\)&nbsp;</div><div> Chilesalpeter (\\NaNO_3\\)&nbsp;</div><div> \\(NaCl\\) Steinsalz in Lagerstätten\ngelöst im Meerwasser&nbsp;</div><div> Kryolith \\(Na_3AlF_6\\)&nbsp;</div><div> Soda \\(Na_2CO_3\\)&nbsp;</div>}}<br></div><div>K:&nbsp;</div><div>{{c4::<div> Sylvin \\(KCl\\)&nbsp;</div><div> Kalifeldspat \\(K[AlSi_3O_8]\\)&nbsp;</div><div> Carnalit \\(KCl*MgCl_2*6H_2O\\)</div>}}<br></div>",
-                        ""
-                    ],
-                    "guid": "t#1oTIMe%q",
-                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                    "tags": [
-                        "_PP::AC::HG1",
-                        "AnorganischeChemie::HG1"
-                    ]
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
             "crowdanki_uuid": "88c0c6e8-0d84-11ec-8b47-14f6d8a21624",
             "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
             "desc": "",
@@ -480,19 +11,39 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "Untitled-0b763c62489d3546460e663ae85a10605ca94578.png",
+                "Untitled-0bb77e2248173fde7467151fa142aa39599a706b.png",
                 "Untitled-0d987e1d4a53097aacb024e184a347bd0c4eff17.png",
+                "Untitled-12a0834dc483681c3e619373367cd69f7dbd09cd.png",
+                "Untitled-16cd1fae95d661549238511735d1e9b9580c83bf.png",
+                "Untitled-17ac3896e8001c950c8dc0ce2450ea835a4fbcfb.png",
                 "Untitled-3247dd89af263ecd7a44020e7905eb9913777b7c.png",
                 "Untitled-32a21480092c16dfa29d493bfeb13990bbd3ef8c.png",
                 "Untitled-3851398f0a0dd170b34121f744cef55d77cf8c4d.png",
+                "Untitled-3bfa412ce6efe71375aa4300acc741088f29a676.png",
                 "Untitled-5dd06f815b58e5da8076bb5b2bd52373102f8911.png",
+                "Untitled-5e6bbe7072633bdb2eea6efcadbd1b13dce11e6c.png",
                 "Untitled-5f0725dbde0dd9a5e0c5820460f6024d621b846f.png",
+                "Untitled-6379083cfd29ed5eaa4421805cb17e8d9bf86083.png",
                 "Untitled-66e58b75dc6969c0e75e652ac06d71efc9f5e0a4.png",
+                "Untitled-87dc0e0c9fe13781037e7fea066f26a702e054af.png",
                 "Untitled-884be4337d01e80b9d9cc5a46ae63b11fb7cbfe7.png",
+                "Untitled-8a694498bc26c17b4662311a5d519d915d4b3821.png",
+                "Untitled-94390bf069f67af2e5332ca2f8baf5232dd07c63.png",
+                "Untitled-a67a4e58ebe2b73ca341b327b4a134215bb24c63.png",
                 "Untitled-acb68f9787049c6592d2c5b92c32e5a470d3cd1a.png",
                 "Untitled-ada80c8688530e8af1844182a178002120d79f5f.png",
                 "Untitled-af3199a8d7e06062db79d3e228ac6df547d0cbff.png",
+                "Untitled-be9478e7198f32be9006ab66f404a57076db86b2.png",
+                "Untitled-c3ede2940328c482df6c16dac9d0a85a2af1e612.png",
+                "Untitled-cea5449fde302d2b31f9ccdc0b8fb5da775f2546.png",
                 "Untitled-d4bb7ab6d6e37432764477d4df23aba542c67e22.png",
-                "Untitled-f9c7d017aa1699da8d5494509a91aaec9b2104c7.png"
+                "Untitled-e55e6607e7205326a0f8217e309bbaf3b54bd0af.png",
+                "Untitled-e850b93162a49943d8cf2970137438c0a019ac13.png",
+                "Untitled-f71c25fc07e87858a02d0185d9693f5bda1aaf00.png",
+                "Untitled-f9c7d017aa1699da8d5494509a91aaec9b2104c7.png",
+                "Untitled-faa1908056139ab29b22690191be34bfff12301c.png",
+                "Untitled-fcac8a70edbf83ecf32c4d008d87e9c580377c0d.png"
             ],
             "name": "Biochemie",
             "notes": [
@@ -663,6 +214,174 @@
                     "tags": [
                         "_PP::Biochemie::Kohlenhydrate"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><b>Aufgabe 3.2</b><br></div>a) Beschreiben Sie die Reaktionen der Gluconeogenese! Welche Rolle spielt Fructose-2,6-bisphosphat bei der Regulation?<div><br></div><div>b) Was sind die wahrscheinlichen Folgen eines genetischen Defekts, der die Fructose-1,6-\nbisphosphatase der Leber unempfindlicher für die Kontrolle von Fructose-2,6-bisphosphat macht?<br></div>",
+                        "Dabei müssen aber <span style=\"font-weight:600\">nicht </span>die \\(\\Delta G\\)-Werte angegeben werden!<div><img src=\"Untitled-f71c25fc07e87858a02d0185d9693f5bda1aaf00.png\"><br></div><div><img src=\"Untitled-cea5449fde302d2b31f9ccdc0b8fb5da775f2546.png\"><br></div>"
+                    ],
+                    "guid": "lopbO*5{pq",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 3.3</b><div>Amylose ist ein unverzweigtes Glucosepolymer. Wie geeignet ist es als Glucosespeicher verglichen mit Amylopektin und Glykogen?<br></div>",
+                        "<img src=\"Untitled-17ac3896e8001c950c8dc0ce2450ea835a4fbcfb.png\">"
+                    ],
+                    "guid": "jxTt4!MT-A",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 3.4</b><div>Beschreiben Sie den enzymatischen Abbau und die Synthese des Glykogens! Welche Enzyme sind jeweils nötig?<br></div>",
+                        "<img src=\"Untitled-6379083cfd29ed5eaa4421805cb17e8d9bf86083.png\"><div><img src=\"Untitled-faa1908056139ab29b22690191be34bfff12301c.png\"><br></div>"
+                    ],
+                    "guid": "C`*U|o8unc",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 3.5</b><br><div>Die Gluconeogenese findet während intensiver Anstrengungen statt, das scheint widersprüchlich. Warum könnte ein Organismus Glucose synthetisieren und gleichzeitig Glucose zur Energieerzeugung verwenden?<br></div><div><br></div><div>Warum ist es für den Muskel von Vorteil, die während einer starken Anstrengung gebildete Milchsäure in den Blutkreislauf abzugeben?<br></div>",
+                        "Damit Energie im Form von Glucose bereitsteht, kann durch eine anaerobe Situation im Muskel Lactat gebildet werden, welches in der Leber wieder über die Gluconeogenese zu Glucose verstoffwechselt werden kann. Somit ist eine dauerhafte Energieversorgung gewährleistet.<div><img src=\"Untitled-94390bf069f67af2e5332ca2f8baf5232dd07c63.png\"><br></div>"
+                    ],
+                    "guid": "eBF2vasZxX",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><b>Aufgabe 3.6</b><br></div>Eine einzige Peptidkette (debranching enzyme) beherbergt die Transferase und die α-1,6-Glucosidase. Welchen Vorteil könnte so eine Anordnung haben?",
+                        "<img src=\"Untitled-3bfa412ce6efe71375aa4300acc741088f29a676.png\">"
+                    ],
+                    "guid": "C?OGKuOs%V",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 3.7</b><div>Coffein hemmt die cAMP-Phosphodiesterase. Welchen Einfluss hat das auf die Antwort des Stoffwechsels auf Adrenalin?<br></div>",
+                        "<img src=\"Untitled-a67a4e58ebe2b73ca341b327b4a134215bb24c63.png\"><div><img src=\"Untitled-e55e6607e7205326a0f8217e309bbaf3b54bd0af.png\"><br></div>"
+                    ],
+                    "guid": "G.kJ~LwHbe",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 3.8</b><div>Sagen Sie die wichtigsten Auswirkungen jeder der folgenden Mutationen vorher:</div><div>a) Verlust der AMP-Bindungsstelle in der PhosphorylaseMuskel.<br></div><div>b) Mutation von Ser 14 zu Ala 14 in der PhosphorylaseLeber.<br></div><div>c) Überexpression der Phosphorylase-KinaseLeber.<br></div><div>d) Verlust des Gens für den Inhibitor 1 der Protein-Phosphatase 1<br></div><div>e) Verlust des Gens für die glykogenbindende Untereinheit der Protein-Phosphatase 1.<br></div><div>f) Verlust des Gens für Glykogenin.</div>",
+                        "<img src=\"Untitled-87dc0e0c9fe13781037e7fea066f26a702e054af.png\"><div><img src=\"Untitled-16cd1fae95d661549238511735d1e9b9580c83bf.png\"><br></div>"
+                    ],
+                    "guid": "cW->7)1UQB",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Kohlenhydrate"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 4.1</b><div>Einige Antibiotika wirken als Carrier, sie binden ein Ion auf der einen Seite der Membran, diffundieren durch sie hindurch und setzen das Ion auf der anderen Seite der Membran frei. Die Leitfähigkeit einer Lipiddoppelschichtmembran mit einem Carrier Antibiotikum nahm abrupt ab, als die Temperatur von 40 °C auf 36 °C gesenkt wurde. Mit einem kanalbildenden Antibiotikum dagegen stellte man kaum eine Leitfähigkeitsänderung an der Membran fest. Warum?<br></div>",
+                        "<img src=\"Untitled-0b763c62489d3546460e663ae85a10605ca94578.png\">"
+                    ],
+                    "guid": "eeg_>^[FNN",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Membranen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 4.2</b><div>Erklären Sie, warum Ölsäure (18 Kohlenstoffatome, eine cis-Bindung) einen niedrigeren Schmelzpunkt aufweist als Stearinsäure, welche die gleiche Zahl von Kohlenstoffatomen besitzt, aber gesättigt ist.<br></div>",
+                        "<img src=\"Untitled-12a0834dc483681c3e619373367cd69f7dbd09cd.png\">"
+                    ],
+                    "guid": "FGWR`Q[v)?",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Membranen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 4.3</b><div>Eine bei 37°C wachsende Bakterienkultur wurde auf 25 °C gebracht.<br></div><div>Wie wird sich diese Veränderung auf die Zusammensetzung der Membranphospholipide auswirken? Welche Erklärung gibt es?<br></div>",
+                        "<img src=\"Untitled-5e6bbe7072633bdb2eea6efcadbd1b13dce11e6c.png\">"
+                    ],
+                    "guid": "ANL5ViEgA$",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Membranen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 4.4</b><div><img src=\"Untitled-fcac8a70edbf83ecf32c4d008d87e9c580377c0d.png\"><br></div>",
+                        "<img src=\"Untitled-be9478e7198f32be9006ab66f404a57076db86b2.png\">"
+                    ],
+                    "guid": "Avqvsi1Qs*",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Membranen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 4.5</b><div>Beim Erstellen eines Hydropathiediagramms für ein untersuchtes Protein erhalten Sie einen einzelnen sehr auffälligen hydroproben Peak. Später stellen Sie fest, dass dieses Protein löslich und nicht mit der Membran assoziiert ist.<br></div><div>Erläutern Sie, wie es zu diesem irreführenden Hydropathiediagramm kommen konnte.<br></div>",
+                        "<img src=\"Untitled-e850b93162a49943d8cf2970137438c0a019ac13.png\">"
+                    ],
+                    "guid": "`pz]0i7zt",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Membranen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 4.6</b><div>Beschrieben Sie in Analogie zu dem Reaktionsmechanismus der \\(Ca^{2+}\\)-ATPase detailliert den\nMechanismus der dem Transport durch die \\(Na^+K^+\\)-ATPase zugrunde liegt!<img src=\"Untitled-c3ede2940328c482df6c16dac9d0a85a2af1e612.png\"><br></div>",
+                        "<img src=\"Untitled-0bb77e2248173fde7467151fa142aa39599a706b.png\">"
+                    ],
+                    "guid": "Ku|adHE[S3",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Membranen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Aufgabe 4.7</b><div>Unterscheiden Sie zwischen einfacher &amp; erleichterter Diffusion!<br></div>",
+                        "<img src=\"Untitled-8a694498bc26c17b4662311a5d519d915d4b3821.png\">"
+                    ],
+                    "guid": "reKt9QqIuU",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": [
+                        "_PP::Biochemie::Membranen"
+                    ]
                 }
             ]
         },
@@ -678,37 +397,17 @@
             "media_files": [
                 "Screenshot 2021-07-28 170636.jpg",
                 "Untitled-00e8e5e60ffd0a727358507dcaee636462b8b2cf.png",
-                "Untitled-0b763c62489d3546460e663ae85a10605ca94578.png",
-                "Untitled-0bb77e2248173fde7467151fa142aa39599a706b.png",
                 "Untitled-0f9fd1bb83254f52a52e4ae734f859b89c2db40a.png",
                 "Untitled-107cba877ef28bc86ed2db78568099e7e81d352a.png",
-                "Untitled-12a0834dc483681c3e619373367cd69f7dbd09cd.png",
                 "Untitled-14049e57f3fb442228d870459d120c1efd81d199.png",
-                "Untitled-16cd1fae95d661549238511735d1e9b9580c83bf.png",
-                "Untitled-17ac3896e8001c950c8dc0ce2450ea835a4fbcfb.png",
                 "Untitled-3700f733a2a0111a8881f9f11b25e1f6a99f649c.png",
                 "Untitled-3886137f819be49c9bd836e3a84dce6f91824803.png",
-                "Untitled-3bfa412ce6efe71375aa4300acc741088f29a676.png",
-                "Untitled-5e6bbe7072633bdb2eea6efcadbd1b13dce11e6c.png",
-                "Untitled-6379083cfd29ed5eaa4421805cb17e8d9bf86083.png",
                 "Untitled-6656c93e5fd7a27ad781faf35494359247312a9b.png",
-                "Untitled-87dc0e0c9fe13781037e7fea066f26a702e054af.png",
-                "Untitled-8a694498bc26c17b4662311a5d519d915d4b3821.png",
                 "Untitled-94020deef8bed734a6a9a97df2ed1edb88df1dfb.png",
-                "Untitled-94390bf069f67af2e5332ca2f8baf5232dd07c63.png",
-                "Untitled-a67a4e58ebe2b73ca341b327b4a134215bb24c63.png",
-                "Untitled-be9478e7198f32be9006ab66f404a57076db86b2.png",
                 "Untitled-bed17cc6ef00ad478a4064c13eaf3243441374cf.png",
-                "Untitled-c3ede2940328c482df6c16dac9d0a85a2af1e612.png",
                 "Untitled-c90e96ddd58e54c611d202d2b846086321d9170f.png",
                 "Untitled-caf10487c195dfecf0cf0f0f266159a568cc789e.png",
-                "Untitled-cea5449fde302d2b31f9ccdc0b8fb5da775f2546.png",
                 "Untitled-cf6742445c1eb90123d0389aa63a3427014a43d7.png",
-                "Untitled-e55e6607e7205326a0f8217e309bbaf3b54bd0af.png",
-                "Untitled-e850b93162a49943d8cf2970137438c0a019ac13.png",
-                "Untitled-f71c25fc07e87858a02d0185d9693f5bda1aaf00.png",
-                "Untitled-faa1908056139ab29b22690191be34bfff12301c.png",
-                "Untitled-fcac8a70edbf83ecf32c4d008d87e9c580377c0d.png",
                 "paste-020cfd3063eab1a87b4027844334d92b05fc6c5c.jpg",
                 "paste-1c5aabde05bdaf8008d2792940abcf658171afcf.jpg",
                 "paste-39024c959e0f8a6e22fefef0cd9c5814eee48b0d.jpg",
@@ -1947,174 +1646,294 @@
                     "tags": [
                         "_PP::Genetik::ZellteilungUndMendel"
                     ]
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "7f9334db-116c-11ec-9c13-14f6d86a1eae",
+            "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Untitled-080b0dab9906c32e8ec99df97720590af41d0ad3.png",
+                "Untitled-0b60f038740cb05836f9c8da660c6c4bbc8bd13b.png",
+                "Untitled-10ccd61542906c8d22526b6d515d014c0147a511.png",
+                "Untitled-2304d8d59545fc683596c85b57839aae09195a67.png",
+                "Untitled-26b248a56855908e28f4b12923615d89ad863dca.png",
+                "Untitled-4270c8a1154e123f17b743660dad284e1b8ef6f2.png",
+                "Untitled-43cd5e4b091623e78b22b9e02168536ecfbf0cd3.png",
+                "Untitled-5509d4102bf46b5d4166c33cd71ccf9e359d9d29.png",
+                "Untitled-6688b48acfa3430f7bd469ceecc65419aa36f898.png",
+                "Untitled-692e3c9b4d313f388416da56566a52e5579afeca.png",
+                "Untitled-75d7e8803b27c2559125cf8b5ca86268c0336584.png",
+                "Untitled-91ac21bd50a6d0424cea47a7081eee07e2aefade.png",
+                "Untitled-92f93618f2dd694402ebbc2a703f9ab8df5dd5a4.png",
+                "Untitled-965e6b100e105cd670e1c2dba136f111a3f5e8e0.png",
+                "Untitled-9b95f17f31a085dadf36ab8a61d5c8f021afa4cd.png",
+                "Untitled-afe7d360b50f8d00d6c0f2a53c58dc87d563e1aa.png",
+                "Untitled-c39bbf7d0b8861251d0ed4c535eac24e5eb1b80c.png",
+                "Untitled-c5e4547e1a5220ca6a104eaf8c1ce38f255ce258.png",
+                "Untitled-ddef261cd4b88c5602ddea4874625423b4bf1734.png",
+                "Untitled-f0477c8e48f587dd389a5d8ff749eba84e25185e.png",
+                "Untitled-f1521afbefecd401deb65396bde036f261705820.png",
+                "Untitled-f44baa0fa3ac1ac5a6eaa69f472679ba83210004.png",
+                "Untitled-f7ef01883b62ee4de5694a106e8740fa285daac5.png"
+            ],
+            "name": "Relevant AC",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beschreiben Sie die 3 elektronischen Vorgänge, die für die allgemeinen Bindungseigenschaften des Wasserstoffs von Bedeutung sind.",
+                        "<ol>\n<li>I. Abgabe des 1s-Valenzelektrons</li>\n</ol>\n<div>Die Abgabe des 1s-Valenzelektrons bewirkt eine Kationisierung des Wasserstoffs → es entsteht H+ (= Proton) → dadurch entsteht ein großes Ladungs-Radius-Verhältnis von H+ → das bedeutet, dass hier eine große Ladung, aber eine geringer Radius vorliegt → der große Ladungs-Radius-Quotient bewirkt dabei eine Deformation der e--Hülle von anderen Atomen</div>\n<ul>\n<li>Protonen liegen nur gebunden vor (z.B. H3O+)</li>\n<li>die Abgabe eines e- vom H-Atom wird in einer chem. Reaktionsgleichung wie folgt dargestellt H(g) → H+(g) + e-</li>\n</ul>\n<ol>\n<li>II. Aufnahme eines \\(e^-\\)</li>\n</ol>\n<div>Bei der Aufnahme eines e-, erreicht das Wasserstoffatom die He-Konfiguration → dies ist jedoch nur möglich, wenn ein H-Atom eine Verbindung mit einem elektropositiven Metall eingeht</div>\n<ul>\n<li>die Aufnahme eines e- vom H-Atom wird in einer chem. Reaktionsgleichung wie folgt dargestellt:\nH(g) + e- → H-(g)</li>\n</ul>\n<ol>\n<li>III. Ausbildung kovalenter Bindungen</li>\n</ol>\n<div>Die dritte Bindungseigenschaft des Wasserstoffs besteht in der Bindung eines e--Paares mit einem anderen Atom → dabei wird eine kovalente Bindung ausgebildet → das H-Atom erreicht dadurch die 1s2-Konfiguration, also Edelgaskonfiguration</div>\n<ul>\n<li>Bsp. sind HCl, HF</li></ul>"
+                    ],
+                    "guid": "kn)Hn6[2yB",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div><b>Aufgabe 3.2</b><br></div>a) Beschreiben Sie die Reaktionen der Gluconeogenese! Welche Rolle spielt Fructose-2,6-bisphosphat bei der Regulation?<div><br></div><div>b) Was sind die wahrscheinlichen Folgen eines genetischen Defekts, der die Fructose-1,6-\nbisphosphatase der Leber unempfindlicher für die Kontrolle von Fructose-2,6-bisphosphat macht?<br></div>",
-                        "Dabei müssen aber <span style=\"font-weight:600\">nicht </span>die \\(\\Delta G\\)-Werte angegeben werden!<div><img src=\"Untitled-f71c25fc07e87858a02d0185d9693f5bda1aaf00.png\"><br></div><div><img src=\"Untitled-cea5449fde302d2b31f9ccdc0b8fb5da775f2546.png\"><br></div>"
+                        "Formulieren Sie die Reaktionen von Wasserstoff mit festem Natrium, Calcium und\nKupfer(I)Oxid sowie mit gasförmigem Kohlenmonoxid, Chlor und Stickstoff.",
+                        "<img src=\"Untitled-afe7d360b50f8d00d6c0f2a53c58dc87d563e1aa.png\">"
                     ],
-                    "guid": "lopbO*5{pq",
+                    "guid": "kp!Ex-9r:)",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": [
-                        "_PP::Biochemie::Kohlenhydrate"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Aufgabe 3.3</b><div>Amylose ist ein unverzweigtes Glucosepolymer. Wie geeignet ist es als Glucosespeicher verglichen mit Amylopektin und Glykogen?<br></div>",
-                        "<img src=\"Untitled-17ac3896e8001c950c8dc0ce2450ea835a4fbcfb.png\">"
+                        "<div>Welche Masse H2 wird bei folgenden Reaktionen erhalten:</div>\n<div>a) 6,00g Na(s) mit H2O-Überschuß</div>\n<div>b) 6,00g NaH mit H2O-Überschuß</div>\n<div>c) 6,00g Li[AlH4] mit H2O-Überschuß</div>",
+                        "<img src=\"Untitled-2304d8d59545fc683596c85b57839aae09195a67.png\">"
                     ],
-                    "guid": "jxTt4!MT-A",
+                    "guid": "PpnL9t>!#.",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": [
-                        "_PP::Biochemie::Kohlenhydrate"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Aufgabe 3.4</b><div>Beschreiben Sie den enzymatischen Abbau und die Synthese des Glykogens! Welche Enzyme sind jeweils nötig?<br></div>",
-                        "<img src=\"Untitled-6379083cfd29ed5eaa4421805cb17e8d9bf86083.png\"><div><img src=\"Untitled-faa1908056139ab29b22690191be34bfff12301c.png\"><br></div>"
+                        "Beschreiben Sie den unterschiedlichen Ablauf der Knallgas und der Chlorknallgasreaktion.",
+                        "<img src=\"Untitled-26b248a56855908e28f4b12923615d89ad863dca.png\">"
                     ],
-                    "guid": "C`*U|o8unc",
+                    "guid": "Fq*f(#i(Hs",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": [
-                        "_PP::Biochemie::Kohlenhydrate"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Aufgabe 3.5</b><br><div>Die Gluconeogenese findet während intensiver Anstrengungen statt, das scheint widersprüchlich. Warum könnte ein Organismus Glucose synthetisieren und gleichzeitig Glucose zur Energieerzeugung verwenden?<br></div><div><br></div><div>Warum ist es für den Muskel von Vorteil, die während einer starken Anstrengung gebildete Milchsäure in den Blutkreislauf abzugeben?<br></div>",
-                        "Damit Energie im Form von Glucose bereitsteht, kann durch eine anaerobe Situation im Muskel Lactat gebildet werden, welches in der Leber wieder über die Gluconeogenese zu Glucose verstoffwechselt werden kann. Somit ist eine dauerhafte Energieversorgung gewährleistet.<div><img src=\"Untitled-94390bf069f67af2e5332ca2f8baf5232dd07c63.png\"><br></div>"
+                        "Welche Schrägbeziehungen zu anderen Hauptgruppenelementen\ngibt es in der Erdalkalimetallgruppe?&nbsp;<div>Welche Elemente bilden Carbide und wie reagieren diese mit\nWasser (Reaktionsgleichung)?</div>",
+                        "Li/Mg&nbsp;<div>Be/Al</div><div><br></div><div><img src=\"Untitled-10ccd61542906c8d22526b6d515d014c0147a511.png\"><br></div>"
                     ],
-                    "guid": "eBF2vasZxX",
+                    "guid": "oI9g~6=v0^",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": [
-                        "_PP::Biochemie::Kohlenhydrate"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div><b>Aufgabe 3.6</b><br></div>Eine einzige Peptidkette (debranching enzyme) beherbergt die Transferase und die α-1,6-Glucosidase. Welchen Vorteil könnte so eine Anordnung haben?",
-                        "<img src=\"Untitled-3bfa412ce6efe71375aa4300acc741088f29a676.png\">"
+                        "Borsäure kann aus Boroxid hergestellt werden. Formulieren Sie diese Reaktion und erklären Sie die Säurewirkung der Borsäure.<div>Weshalb können Polyhydroxyverbindungen die Acidität der Borsäure erhöhen?<br></div>",
+                        "<img src=\"Untitled-5509d4102bf46b5d4166c33cd71ccf9e359d9d29.png\"><div><br><div><img src=\"Untitled-692e3c9b4d313f388416da56566a52e5579afeca.png\"><br></div></div>"
                     ],
-                    "guid": "C?OGKuOs%V",
+                    "guid": "uA-ickBgR9",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": [
-                        "_PP::Biochemie::Kohlenhydrate"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Aufgabe 3.7</b><div>Coffein hemmt die cAMP-Phosphodiesterase. Welchen Einfluss hat das auf die Antwort des Stoffwechsels auf Adrenalin?<br></div>",
-                        "<img src=\"Untitled-a67a4e58ebe2b73ca341b327b4a134215bb24c63.png\"><div><img src=\"Untitled-e55e6607e7205326a0f8217e309bbaf3b54bd0af.png\"><br></div>"
+                        "Welche Typen von Carbiden gibt es? Nennen Sie Beispiele",
+                        "<img src=\"Untitled-92f93618f2dd694402ebbc2a703f9ab8df5dd5a4.png\">"
                     ],
-                    "guid": "G.kJ~LwHbe",
+                    "guid": "nG*Bsm(fMu",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": [
-                        "_PP::Biochemie::Kohlenhydrate"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Aufgabe 3.8</b><div>Sagen Sie die wichtigsten Auswirkungen jeder der folgenden Mutationen vorher:</div><div>a) Verlust der AMP-Bindungsstelle in der PhosphorylaseMuskel.<br></div><div>b) Mutation von Ser 14 zu Ala 14 in der PhosphorylaseLeber.<br></div><div>c) Überexpression der Phosphorylase-KinaseLeber.<br></div><div>d) Verlust des Gens für den Inhibitor 1 der Protein-Phosphatase 1<br></div><div>e) Verlust des Gens für die glykogenbindende Untereinheit der Protein-Phosphatase 1.<br></div><div>f) Verlust des Gens für Glykogenin.</div>",
-                        "<img src=\"Untitled-87dc0e0c9fe13781037e7fea066f26a702e054af.png\"><div><img src=\"Untitled-16cd1fae95d661549238511735d1e9b9580c83bf.png\"><br></div>"
+                        "Wieviel Gramm Wasser werden zum Zersetzen von 1g 81%igem Calciumcarbid benötigt?&nbsp;<div>Welches Volumen hat das freiwerdende Gas unter Normalbedingungen?</div>",
+                        "<img src=\"Untitled-f0477c8e48f587dd389a5d8ff749eba84e25185e.png\">"
                     ],
-                    "guid": "cW->7)1UQB",
+                    "guid": "JE{/m}Nvdv",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": [
-                        "_PP::Biochemie::Kohlenhydrate"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Aufgabe 4.1</b><div>Einige Antibiotika wirken als Carrier, sie binden ein Ion auf der einen Seite der Membran, diffundieren durch sie hindurch und setzen das Ion auf der anderen Seite der Membran frei. Die Leitfähigkeit einer Lipiddoppelschichtmembran mit einem Carrier Antibiotikum nahm abrupt ab, als die Temperatur von 40 °C auf 36 °C gesenkt wurde. Mit einem kanalbildenden Antibiotikum dagegen stellte man kaum eine Leitfähigkeitsänderung an der Membran fest. Warum?<br></div>",
-                        "<img src=\"Untitled-0b763c62489d3546460e663ae85a10605ca94578.png\">"
+                        "Erläutern Sie die Xanthoprotein-Reaktion (RG angeben).",
+                        "Nachweißreaktion für aromatische Aminosäuren in Proteinen.\nGelbe Färbung durch Nitrierung am Benzolring.<div><img src=\"Untitled-f1521afbefecd401deb65396bde036f261705820.png\"><br></div>"
                     ],
-                    "guid": "eeg_>^[FNN",
+                    "guid": "mLZ`7tD1:4",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": [
-                        "_PP::Biochemie::Membranen"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Aufgabe 4.2</b><div>Erklären Sie, warum Ölsäure (18 Kohlenstoffatome, eine cis-Bindung) einen niedrigeren Schmelzpunkt aufweist als Stearinsäure, welche die gleiche Zahl von Kohlenstoffatomen besitzt, aber gesättigt ist.<br></div>",
-                        "<img src=\"Untitled-12a0834dc483681c3e619373367cd69f7dbd09cd.png\">"
+                        "Formulieren Sie die Gleichungen für die Herstellung von Sauerstoff aus: HgO; Na2O2; H2O2; NaNO3; KClO3; H2O<div>sowie für die Reaktion des O2 mit: K; Na; Li; Mg; Ba; C; P4; N2.<br></div>",
+                        "<img src=\"Untitled-c5e4547e1a5220ca6a104eaf8c1ce38f255ce258.png\"><div><img src=\"Untitled-9b95f17f31a085dadf36ab8a61d5c8f021afa4cd.png\"><br></div>"
                     ],
-                    "guid": "FGWR`Q[v)?",
+                    "guid": "c%*H?k3T$<",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": [
-                        "_PP::Biochemie::Membranen"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Aufgabe 4.3</b><div>Eine bei 37°C wachsende Bakterienkultur wurde auf 25 °C gebracht.<br></div><div>Wie wird sich diese Veränderung auf die Zusammensetzung der Membranphospholipide auswirken? Welche Erklärung gibt es?<br></div>",
-                        "<img src=\"Untitled-5e6bbe7072633bdb2eea6efcadbd1b13dce11e6c.png\">"
+                        "Erklären Sie die besondere Reaktivität von Singulettsauerstoff und seine Bedeutung für biologische Systeme.",
+                        "<img src=\"Untitled-c39bbf7d0b8861251d0ed4c535eac24e5eb1b80c.png\"><div><img src=\"Untitled-080b0dab9906c32e8ec99df97720590af41d0ad3.png\"><br></div>"
                     ],
-                    "guid": "ANL5ViEgA$",
+                    "guid": "k+;_.xwp-^",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": [
-                        "_PP::Biochemie::Membranen"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Aufgabe 4.4</b><div><img src=\"Untitled-fcac8a70edbf83ecf32c4d008d87e9c580377c0d.png\"><br></div>",
-                        "<img src=\"Untitled-be9478e7198f32be9006ab66f404a57076db86b2.png\">"
+                        "Formulieren Sie die Reaktionsgleichungen für die Synthese\nvon Chlor aus Cl- mit:&nbsp;<div>a) MnO2&nbsp;</div><div>b) MnO4\n-&nbsp;</div><div>c) PbO2 d)Cr2O72-.&nbsp;</div><div>Kann man mit den analogen Reaktionen auch F2, Br2 und I2\nherstellen?</div>",
+                        "<img src=\"Untitled-f44baa0fa3ac1ac5a6eaa69f472679ba83210004.png\">"
                     ],
-                    "guid": "Avqvsi1Qs*",
+                    "guid": "dD9Y)Y0jaO",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": [
-                        "_PP::Biochemie::Membranen"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Aufgabe 4.5</b><div>Beim Erstellen eines Hydropathiediagramms für ein untersuchtes Protein erhalten Sie einen einzelnen sehr auffälligen hydroproben Peak. Später stellen Sie fest, dass dieses Protein löslich und nicht mit der Membran assoziiert ist.<br></div><div>Erläutern Sie, wie es zu diesem irreführenden Hydropathiediagramm kommen konnte.<br></div>",
-                        "<img src=\"Untitled-e850b93162a49943d8cf2970137438c0a019ac13.png\">"
+                        "Formulieren Sie die Reaktionsgleichungen für die Reaktionen von Cl2 mit: a) H2 b) Zn c) P4 d) S8 e) H2S f) CO g) SO2 h) I- i) H2O",
+                        "<img src=\"Untitled-965e6b100e105cd670e1c2dba136f111a3f5e8e0.png\">"
                     ],
-                    "guid": "`pz]0i7zt",
+                    "guid": "l2)#Y#HoTg",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": [
-                        "_PP::Biochemie::Membranen"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Aufgabe 4.6</b><div>Beschrieben Sie in Analogie zu dem Reaktionsmechanismus der \\(Ca^{2+}\\)-ATPase detailliert den\nMechanismus der dem Transport durch die \\(Na^+K^+\\)-ATPase zugrunde liegt!<img src=\"Untitled-c3ede2940328c482df6c16dac9d0a85a2af1e612.png\"><br></div>",
-                        "<img src=\"Untitled-0bb77e2248173fde7467151fa142aa39599a706b.png\">"
+                        "Wie ist es zu erklären, dass Lithium, Natrium und Kalium in dieser Reihenfolge mit zunehmender Heftigkeit mit Wasser reagieren?",
+                        "Atomradius steigt von oben (Li) nach unten (K)&nbsp;<div>→ 1s-Elektron lässt sich leichter entfernen&nbsp;</div><div>→ erste Ionisierungsenergie sinkt&nbsp;</div><div>→ Reaktivität steigt</div><div>K besitzt d-Orbitale → spontane Entzündung</div>"
                     ],
-                    "guid": "Ku|adHE[S3",
+                    "guid": "eEq/t1vC<!",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": [
-                        "_PP::Biochemie::Membranen"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Aufgabe 4.7</b><div>Unterscheiden Sie zwischen einfacher &amp; erleichterter Diffusion!<br></div>",
-                        "<img src=\"Untitled-8a694498bc26c17b4662311a5d519d915d4b3821.png\">"
+                        "Wie verhält sich der basische Charakter der Oxide und Hydroxyde innerhalb der Hauptgruppe mit zunehmender Ordnungszahl.<div>Erklären Sie die Zunahme der thermischen Stabilität z.B. der Cabonate vom Be zum Ba.<br></div>",
+                        "<div>Der basische Charakter nimmt von Be zu Ba zu.</div>\n<ol>\n<li>Weil die Elektronegativität geringer wird → Zunahme des ionischen Charakters der Metall-Sauerstoff-Bindung</li>\n<li>Wegen der besseren Polarisierbarkeit und damit Stabilisierbarkeit der größeren Kationen</li>\n</ol>\n<div>Mit steigendem basischem Charakter steigt auch die thermische Stabilität mit schwachen Säuren wie z.B. dem Carbonat</div>"
                     ],
-                    "guid": "reKt9QqIuU",
+                    "guid": "wf&kT0z22=",
                     "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
-                    "tags": [
-                        "_PP::Biochemie::Membranen"
-                    ]
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erklären Sie die Unterschiede in den Gruppeneigenschaften zwischen B und Al sowie Ga, In und Tl. Wodurch ergibt sich die Sonderstellung des Elementes Gallium und sein sehr niedriger Schmelzpunkt?",
+                        "<div>B: Halbmetall Schrägbeziehung zu Si kleiner Atomradius → hohes Ladungs-Radius-Verhältnis → starke Bindung von Valenzelektronen → kovalente Bindungen höchste EN und Ionisierungsenergie → Sonderstellung&nbsp;</div><div><br></div><div>Al: Metall ionische und kovalente Bindungen Schrägbeziehung zu Be&nbsp;</div><div><br></div><div>Ga: offene unregelmäßige Kristallstruktur → schwache Assoziationen in den Festkörpern → leicht zerstörbar Anomalie: Auffüllung der d-Schale&nbsp;</div><div><br></div><div>In, Tl: typische Metalle mechanisch weich Ionenbindungen</div>"
+                    ],
+                    "guid": "Le(5<7lA|4",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Formulieren Sie die Reaktionsgleichungen für folgende Umsetzungen:\nKohlenstoff und CO2 bei hoher Temperatur, CO und Wasserstoff, Bicarbonat und Säure, Cyankali und Salzsäure, Cyankali und Schwefel.",
+                        "<img src=\"Untitled-ddef261cd4b88c5602ddea4874625423b4bf1734.png\">"
+                    ],
+                    "guid": "E:9Dv4^a(H",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter der Müller-Rochow-Synthese und wie werden Silicone hergestellt?",
+                        "Müller-Rochow-Synthese: Verfahren zur Herstellung von Methylchlorsilanen aus Chlormethan und Si mit Hilfe von Kupfer- oder Kupferoxid-Katalysatoren.&nbsp;<div>Die entstehende Mischung von Methylchlorsilanen kann durch fraktionierte Destillation aufgetrennt werden.\nSilicone sind synthetische Polymere bei denen Si-Atome über O-Atome verknüpft sind. Es können Molekülketten oder Netze entstehen. Die restlichen Valenz-e- des Si sind meist duch Methyl-Gruppen abgesättigt.&nbsp;</div><div><br></div><div>Herstellung: Durch Hydrolyse von Organochlorsilanen werden Silanole gebildet. Diese polymerisieren bei erhöhter Temperatur und in Gegenwart von Katalysatoren zum Endprodukt.</div>"
+                    ],
+                    "guid": "nR`Zew%t|n",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erläutern Sie den Reaktionsverlauf der Müller-Rochow-Synthese.",
+                        "<img src=\"Untitled-f7ef01883b62ee4de5694a106e8740fa285daac5.png\">"
+                    ],
+                    "guid": "p4N@3N3=i0",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Worauf beruht das Vermögen von „Königswasser“ edle Metalle\nzu lösen (bitte Reaktionsgleichung angeben)?",
+                        "<img src=\"Untitled-91ac21bd50a6d0424cea47a7081eee07e2aefade.png\">"
+                    ],
+                    "guid": "AD*sV^^Vui",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wodurch ergibt sich die 3-fache antimikrobielle Wirkung von Silberionen?",
+                        "<ul>\n<li>Verringerung der Anheftung von Mikroben → weniger Kolonien, schlechtere Wachstumsbedingungen</li>\n<li>Störung des Zellstoffwechsels durch Austausch von K+ → Beeinträchtigung der Lebensfähigkeit der Bakterien</li>\n<li>Irreversible Reaktion mit schwefelhaltigen Aminosäuren → Zerstörung der Proteine und auch der DNA/RNA</li></ul>"
+                    ],
+                    "guid": "w-F)SW>a}%",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie hoch sind die toxischen Konzentrationen von Silberionen für Bakterien bzw. für den Menschen?",
+                        "<img src=\"Untitled-0b60f038740cb05836f9c8da660c6c4bbc8bd13b.png\">"
+                    ],
+                    "guid": "nkj-Tu+Rd$",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erklären Sie die chemischen Reaktionen von Titandioxid mit organischen Substanzen bei UV-Bestrahlung.",
+                        "<img src=\"Untitled-43cd5e4b091623e78b22b9e02168536ecfbf0cd3.png\">"
+                    ],
+                    "guid": "iAD%k&:xMQ",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Geben sie die Reaktionsgleichungen zur Iodometrie an.",
+                        "<img src=\"Untitled-4270c8a1154e123f17b743660dad284e1b8ef6f2.png\">"
+                    ],
+                    "guid": "q18eMOest$",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Natriumthiosulfat zeichnen, Oxidationszahlen von Schwefel und Herstellungsreaktion angeben.",
+                        "<img src=\"Untitled-6688b48acfa3430f7bd469ceecc65419aa36f898.png\"><div><img src=\"Untitled-75d7e8803b27c2559125cf8b5ca86268c0336584.png\"><br></div>"
+                    ],
+                    "guid": "oOQ#)3Z>)2",
+                    "note_model_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
+                    "tags": []
                 }
             ]
         }
@@ -2179,183 +1998,6 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Rückseite Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Lückentext",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [
-                "AnorganischeChemie::HG0"
-            ],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Lückentext",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ],
-            "type": 1
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "name": "ID (hidden)",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Header",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Image",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Question Mask",
-                    "ord": 3,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Footer",
-                    "ord": 4,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Remarks",
-                    "ord": 5,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Sources",
-                    "ord": 6,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Extra 1",
-                    "ord": 7,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Extra 2",
-                    "ord": 8,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Answer Mask",
-                    "ord": 9,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Original Mask",
-                    "ord": 10,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Image Occlusion Enhanced-17ebb",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        2
-                    ]
-                ]
-            ],
-            "sortf": 1,
-            "tmpls": [
-                {
-                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "IO Card",
-                    "ord": 0,
-                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "88c14c8a-0d84-11ec-8b47-14f6d8a21624",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
             "flds": [
@@ -2390,9 +2032,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "_PP::Biochemie::Membranen"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
